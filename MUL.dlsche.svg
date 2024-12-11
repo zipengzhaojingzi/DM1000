@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg height="4288" version="1.1" width="6820" xmlns="http://www.w3.org/2000/svg">
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="567" y="3151"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="567" y="3051">MUL_unit_0</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="567" y="3101">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="1117 3151, 1142 3176, 1142 3226, 1117 3251, 1092 3226, 1092 3176, 1117 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1107" y="3271">X</text>
+
+  <polygon fill="#ffff80" points="1267 3451, 1242 3476, 1192 3476, 1167 3451, 1192 3426, 1242 3426, 1267 3451" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1107" y="3451">Cin</text>
+
+  <polygon fill="#ffff80" points="917 3151, 942 3176, 942 3226, 917 3251, 892 3226, 892 3176, 917 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="897" y="3271">Pin</text>
+
+  <polygon fill="#ffff80" points="917 3651, 942 3626, 942 3576, 917 3551, 892 3576, 892 3626, 917 3651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="887" y="3531">Pout</text>
+
+  <polygon fill="#ffff80" points="567 3451, 592 3476, 642 3476, 667 3451, 642 3426, 592 3426, 567 3451" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="677" y="3451">Cout</text>
+
+  <polygon fill="#ffff80" points="717 3151, 692 3176, 692 3226, 717 3251, 742 3226, 742 3176, 717 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="707" y="3271">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="1367" y="3151"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1367" y="3051">MUL_unit_1</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1367" y="3101">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="1917 3151, 1942 3176, 1942 3226, 1917 3251, 1892 3226, 1892 3176, 1917 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1907" y="3271">X</text>
+
+  <polygon fill="#ffff80" points="2067 3451, 2042 3476, 1992 3476, 1967 3451, 1992 3426, 2042 3426, 2067 3451" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1907" y="3451">Cin</text>
+
+  <polygon fill="#ffff80" points="1717 3151, 1742 3176, 1742 3226, 1717 3251, 1692 3226, 1692 3176, 1717 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1697" y="3271">Pin</text>
+
+  <polygon fill="#ffff80" points="1717 3651, 1742 3626, 1742 3576, 1717 3551, 1692 3576, 1692 3626, 1717 3651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1687" y="3531">Pout</text>
+
+  <polygon fill="#ffff80" points="1367 3451, 1392 3476, 1442 3476, 1467 3451, 1442 3426, 1392 3426, 1367 3451" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1477" y="3451">Cout</text>
+
+  <polygon fill="#ffff80" points="1517 3151, 1492 3176, 1492 3226, 1517 3251, 1542 3226, 1542 3176, 1517 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1507" y="3271">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="2167" y="3151"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2167" y="3051">MUL_unit_2</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2167" y="3101">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="2717 3151, 2742 3176, 2742 3226, 2717 3251, 2692 3226, 2692 3176, 2717 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2707" y="3271">X</text>
+
+  <polygon fill="#ffff80" points="2867 3451, 2842 3476, 2792 3476, 2767 3451, 2792 3426, 2842 3426, 2867 3451" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2707" y="3451">Cin</text>
+
+  <polygon fill="#ffff80" points="2517 3151, 2542 3176, 2542 3226, 2517 3251, 2492 3226, 2492 3176, 2517 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2497" y="3271">Pin</text>
+
+  <polygon fill="#ffff80" points="2517 3651, 2542 3626, 2542 3576, 2517 3551, 2492 3576, 2492 3626, 2517 3651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2487" y="3531">Pout</text>
+
+  <polygon fill="#ffff80" points="2167 3451, 2192 3476, 2242 3476, 2267 3451, 2242 3426, 2192 3426, 2167 3451" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2277" y="3451">Cout</text>
+
+  <polygon fill="#ffff80" points="2317 3151, 2292 3176, 2292 3226, 2317 3251, 2342 3226, 2342 3176, 2317 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2307" y="3271">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="2967" y="3151"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2967" y="3051">MUL_unit_3</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2967" y="3101">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="3517 3151, 3542 3176, 3542 3226, 3517 3251, 3492 3226, 3492 3176, 3517 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3507" y="3271">X</text>
+
+  <polygon fill="#ffff80" points="3667 3451, 3642 3476, 3592 3476, 3567 3451, 3592 3426, 3642 3426, 3667 3451" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3507" y="3451">Cin</text>
+
+  <polygon fill="#ffff80" points="3317 3151, 3342 3176, 3342 3226, 3317 3251, 3292 3226, 3292 3176, 3317 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3297" y="3271">Pin</text>
+
+  <polygon fill="#ffff80" points="3317 3651, 3342 3626, 3342 3576, 3317 3551, 3292 3576, 3292 3626, 3317 3651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3287" y="3531">Pout</text>
+
+  <polygon fill="#ffff80" points="2967 3451, 2992 3476, 3042 3476, 3067 3451, 3042 3426, 2992 3426, 2967 3451" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3077" y="3451">Cout</text>
+
+  <polygon fill="#ffff80" points="3117 3151, 3092 3176, 3092 3226, 3117 3251, 3142 3226, 3142 3176, 3117 3151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3107" y="3271">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="1367" y="2351"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1367" y="2251">MUL_unit_4</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1367" y="2301">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="1917 2351, 1942 2376, 1942 2426, 1917 2451, 1892 2426, 1892 2376, 1917 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1907" y="2471">X</text>
+
+  <polygon fill="#ffff80" points="2067 2651, 2042 2676, 1992 2676, 1967 2651, 1992 2626, 2042 2626, 2067 2651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1907" y="2651">Cin</text>
+
+  <polygon fill="#ffff80" points="1717 2351, 1742 2376, 1742 2426, 1717 2451, 1692 2426, 1692 2376, 1717 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1697" y="2471">Pin</text>
+
+  <polygon fill="#ffff80" points="1717 2851, 1742 2826, 1742 2776, 1717 2751, 1692 2776, 1692 2826, 1717 2851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1687" y="2731">Pout</text>
+
+  <polygon fill="#ffff80" points="1367 2651, 1392 2676, 1442 2676, 1467 2651, 1442 2626, 1392 2626, 1367 2651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1477" y="2651">Cout</text>
+
+  <polygon fill="#ffff80" points="1517 2351, 1492 2376, 1492 2426, 1517 2451, 1542 2426, 1542 2376, 1517 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1507" y="2471">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="2167" y="2351"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2167" y="2251">MUL_unit_5</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2167" y="2301">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="2717 2351, 2742 2376, 2742 2426, 2717 2451, 2692 2426, 2692 2376, 2717 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2707" y="2471">X</text>
+
+  <polygon fill="#ffff80" points="2867 2651, 2842 2676, 2792 2676, 2767 2651, 2792 2626, 2842 2626, 2867 2651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2707" y="2651">Cin</text>
+
+  <polygon fill="#ffff80" points="2517 2351, 2542 2376, 2542 2426, 2517 2451, 2492 2426, 2492 2376, 2517 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2497" y="2471">Pin</text>
+
+  <polygon fill="#ffff80" points="2517 2851, 2542 2826, 2542 2776, 2517 2751, 2492 2776, 2492 2826, 2517 2851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2487" y="2731">Pout</text>
+
+  <polygon fill="#ffff80" points="2167 2651, 2192 2676, 2242 2676, 2267 2651, 2242 2626, 2192 2626, 2167 2651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2277" y="2651">Cout</text>
+
+  <polygon fill="#ffff80" points="2317 2351, 2292 2376, 2292 2426, 2317 2451, 2342 2426, 2342 2376, 2317 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2307" y="2471">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="2967" y="2351"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2967" y="2251">MUL_unit_6</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2967" y="2301">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="3517 2351, 3542 2376, 3542 2426, 3517 2451, 3492 2426, 3492 2376, 3517 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3507" y="2471">X</text>
+
+  <polygon fill="#ffff80" points="3667 2651, 3642 2676, 3592 2676, 3567 2651, 3592 2626, 3642 2626, 3667 2651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3507" y="2651">Cin</text>
+
+  <polygon fill="#ffff80" points="3317 2351, 3342 2376, 3342 2426, 3317 2451, 3292 2426, 3292 2376, 3317 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3297" y="2471">Pin</text>
+
+  <polygon fill="#ffff80" points="3317 2851, 3342 2826, 3342 2776, 3317 2751, 3292 2776, 3292 2826, 3317 2851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3287" y="2731">Pout</text>
+
+  <polygon fill="#ffff80" points="2967 2651, 2992 2676, 3042 2676, 3067 2651, 3042 2626, 2992 2626, 2967 2651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3077" y="2651">Cout</text>
+
+  <polygon fill="#ffff80" points="3117 2351, 3092 2376, 3092 2426, 3117 2451, 3142 2426, 3142 2376, 3117 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3107" y="2471">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="3767" y="2351"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3767" y="2251">MUL_unit_7</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3767" y="2301">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="4317 2351, 4342 2376, 4342 2426, 4317 2451, 4292 2426, 4292 2376, 4317 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4307" y="2471">X</text>
+
+  <polygon fill="#ffff80" points="4467 2651, 4442 2676, 4392 2676, 4367 2651, 4392 2626, 4442 2626, 4467 2651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4307" y="2651">Cin</text>
+
+  <polygon fill="#ffff80" points="4117 2351, 4142 2376, 4142 2426, 4117 2451, 4092 2426, 4092 2376, 4117 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4097" y="2471">Pin</text>
+
+  <polygon fill="#ffff80" points="4117 2851, 4142 2826, 4142 2776, 4117 2751, 4092 2776, 4092 2826, 4117 2851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4087" y="2731">Pout</text>
+
+  <polygon fill="#ffff80" points="3767 2651, 3792 2676, 3842 2676, 3867 2651, 3842 2626, 3792 2626, 3767 2651" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3877" y="2651">Cout</text>
+
+  <polygon fill="#ffff80" points="3917 2351, 3892 2376, 3892 2426, 3917 2451, 3942 2426, 3942 2376, 3917 2351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3907" y="2471">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="2167" y="1551"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2167" y="1451">MUL_unit_8</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2167" y="1501">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="2717 1551, 2742 1576, 2742 1626, 2717 1651, 2692 1626, 2692 1576, 2717 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2707" y="1671">X</text>
+
+  <polygon fill="#ffff80" points="2867 1851, 2842 1876, 2792 1876, 2767 1851, 2792 1826, 2842 1826, 2867 1851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2707" y="1851">Cin</text>
+
+  <polygon fill="#ffff80" points="2517 1551, 2542 1576, 2542 1626, 2517 1651, 2492 1626, 2492 1576, 2517 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2497" y="1671">Pin</text>
+
+  <polygon fill="#ffff80" points="2517 2051, 2542 2026, 2542 1976, 2517 1951, 2492 1976, 2492 2026, 2517 2051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2487" y="1931">Pout</text>
+
+  <polygon fill="#ffff80" points="2167 1851, 2192 1876, 2242 1876, 2267 1851, 2242 1826, 2192 1826, 2167 1851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2277" y="1851">Cout</text>
+
+  <polygon fill="#ffff80" points="2317 1551, 2292 1576, 2292 1626, 2317 1651, 2342 1626, 2342 1576, 2317 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2307" y="1671">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="2967" y="1551"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2967" y="1451">MUL_unit_9</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2967" y="1501">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="3517 1551, 3542 1576, 3542 1626, 3517 1651, 3492 1626, 3492 1576, 3517 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3507" y="1671">X</text>
+
+  <polygon fill="#ffff80" points="3667 1851, 3642 1876, 3592 1876, 3567 1851, 3592 1826, 3642 1826, 3667 1851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3507" y="1851">Cin</text>
+
+  <polygon fill="#ffff80" points="3317 1551, 3342 1576, 3342 1626, 3317 1651, 3292 1626, 3292 1576, 3317 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3297" y="1671">Pin</text>
+
+  <polygon fill="#ffff80" points="3317 2051, 3342 2026, 3342 1976, 3317 1951, 3292 1976, 3292 2026, 3317 2051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3287" y="1931">Pout</text>
+
+  <polygon fill="#ffff80" points="2967 1851, 2992 1876, 3042 1876, 3067 1851, 3042 1826, 2992 1826, 2967 1851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3077" y="1851">Cout</text>
+
+  <polygon fill="#ffff80" points="3117 1551, 3092 1576, 3092 1626, 3117 1651, 3142 1626, 3142 1576, 3117 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3107" y="1671">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="3767" y="1551"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3767" y="1451">MUL_unit_10</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3767" y="1501">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="4317 1551, 4342 1576, 4342 1626, 4317 1651, 4292 1626, 4292 1576, 4317 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4307" y="1671">X</text>
+
+  <polygon fill="#ffff80" points="4467 1851, 4442 1876, 4392 1876, 4367 1851, 4392 1826, 4442 1826, 4467 1851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4307" y="1851">Cin</text>
+
+  <polygon fill="#ffff80" points="4117 1551, 4142 1576, 4142 1626, 4117 1651, 4092 1626, 4092 1576, 4117 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4097" y="1671">Pin</text>
+
+  <polygon fill="#ffff80" points="4117 2051, 4142 2026, 4142 1976, 4117 1951, 4092 1976, 4092 2026, 4117 2051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4087" y="1931">Pout</text>
+
+  <polygon fill="#ffff80" points="3767 1851, 3792 1876, 3842 1876, 3867 1851, 3842 1826, 3792 1826, 3767 1851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3877" y="1851">Cout</text>
+
+  <polygon fill="#ffff80" points="3917 1551, 3892 1576, 3892 1626, 3917 1651, 3942 1626, 3942 1576, 3917 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3907" y="1671">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="4567" y="1551"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4567" y="1451">MUL_unit_11</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4567" y="1501">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="5117 1551, 5142 1576, 5142 1626, 5117 1651, 5092 1626, 5092 1576, 5117 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5107" y="1671">X</text>
+
+  <polygon fill="#ffff80" points="5267 1851, 5242 1876, 5192 1876, 5167 1851, 5192 1826, 5242 1826, 5267 1851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5107" y="1851">Cin</text>
+
+  <polygon fill="#ffff80" points="4917 1551, 4942 1576, 4942 1626, 4917 1651, 4892 1626, 4892 1576, 4917 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4897" y="1671">Pin</text>
+
+  <polygon fill="#ffff80" points="4917 2051, 4942 2026, 4942 1976, 4917 1951, 4892 1976, 4892 2026, 4917 2051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4887" y="1931">Pout</text>
+
+  <polygon fill="#ffff80" points="4567 1851, 4592 1876, 4642 1876, 4667 1851, 4642 1826, 4592 1826, 4567 1851" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4677" y="1851">Cout</text>
+
+  <polygon fill="#ffff80" points="4717 1551, 4692 1576, 4692 1626, 4717 1651, 4742 1626, 4742 1576, 4717 1551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4707" y="1671">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="2967" y="751"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2967" y="651">MUL_unit_12</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2967" y="701">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="3517 751, 3542 776, 3542 826, 3517 851, 3492 826, 3492 776, 3517 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3507" y="871">X</text>
+
+  <polygon fill="#ffff80" points="3667 1051, 3642 1076, 3592 1076, 3567 1051, 3592 1026, 3642 1026, 3667 1051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3507" y="1051">Cin</text>
+
+  <polygon fill="#ffff80" points="3317 751, 3342 776, 3342 826, 3317 851, 3292 826, 3292 776, 3317 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3297" y="871">Pin</text>
+
+  <polygon fill="#ffff80" points="3317 1251, 3342 1226, 3342 1176, 3317 1151, 3292 1176, 3292 1226, 3317 1251" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3287" y="1131">Pout</text>
+
+  <polygon fill="#ffff80" points="2967 1051, 2992 1076, 3042 1076, 3067 1051, 3042 1026, 2992 1026, 2967 1051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3077" y="1051">Cout</text>
+
+  <polygon fill="#ffff80" points="3117 751, 3092 776, 3092 826, 3117 851, 3142 826, 3142 776, 3117 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3107" y="871">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="3767" y="751"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3767" y="651">MUL_unit_13</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3767" y="701">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="4317 751, 4342 776, 4342 826, 4317 851, 4292 826, 4292 776, 4317 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4307" y="871">X</text>
+
+  <polygon fill="#ffff80" points="4467 1051, 4442 1076, 4392 1076, 4367 1051, 4392 1026, 4442 1026, 4467 1051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4307" y="1051">Cin</text>
+
+  <polygon fill="#ffff80" points="4117 751, 4142 776, 4142 826, 4117 851, 4092 826, 4092 776, 4117 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4097" y="871">Pin</text>
+
+  <polygon fill="#ffff80" points="4117 1251, 4142 1226, 4142 1176, 4117 1151, 4092 1176, 4092 1226, 4117 1251" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4087" y="1131">Pout</text>
+
+  <polygon fill="#ffff80" points="3767 1051, 3792 1076, 3842 1076, 3867 1051, 3842 1026, 3792 1026, 3767 1051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3877" y="1051">Cout</text>
+
+  <polygon fill="#ffff80" points="3917 751, 3892 776, 3892 826, 3917 851, 3942 826, 3942 776, 3917 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3907" y="871">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="4567" y="751"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4567" y="651">MUL_unit_14</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4567" y="701">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="5117 751, 5142 776, 5142 826, 5117 851, 5092 826, 5092 776, 5117 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5107" y="871">X</text>
+
+  <polygon fill="#ffff80" points="5267 1051, 5242 1076, 5192 1076, 5167 1051, 5192 1026, 5242 1026, 5267 1051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5107" y="1051">Cin</text>
+
+  <polygon fill="#ffff80" points="4917 751, 4942 776, 4942 826, 4917 851, 4892 826, 4892 776, 4917 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4897" y="871">Pin</text>
+
+  <polygon fill="#ffff80" points="4917 1251, 4942 1226, 4942 1176, 4917 1151, 4892 1176, 4892 1226, 4917 1251" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4887" y="1131">Pout</text>
+
+  <polygon fill="#ffff80" points="4567 1051, 4592 1076, 4642 1076, 4667 1051, 4642 1026, 4592 1026, 4567 1051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4677" y="1051">Cout</text>
+
+  <polygon fill="#ffff80" points="4717 751, 4692 776, 4692 826, 4717 851, 4742 826, 4742 776, 4717 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4707" y="871">Y</text>
+
+  <rect fill="#80ff80" height="500" stroke="#800000" stroke-width="1" width="700" x="5367" y="751"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5367" y="651">MUL_unit_15</text>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5367" y="701">MUL_unit.dlsche</text>
+
+  <polygon fill="#ffff80" points="5917 751, 5942 776, 5942 826, 5917 851, 5892 826, 5892 776, 5917 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5907" y="871">X</text>
+
+  <polygon fill="#ffff80" points="6067 1051, 6042 1076, 5992 1076, 5967 1051, 5992 1026, 6042 1026, 6067 1051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5907" y="1051">Cin</text>
+
+  <polygon fill="#ffff80" points="5717 751, 5742 776, 5742 826, 5717 851, 5692 826, 5692 776, 5717 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5697" y="871">Pin</text>
+
+  <polygon fill="#ffff80" points="5717 1251, 5742 1226, 5742 1176, 5717 1151, 5692 1176, 5692 1226, 5717 1251" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5687" y="1131">Pout</text>
+
+  <polygon fill="#ffff80" points="5367 1051, 5392 1076, 5442 1076, 5467 1051, 5442 1026, 5392 1026, 5367 1051" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5477" y="1051">Cout</text>
+
+  <polygon fill="#ffff80" points="5517 751, 5492 776, 5492 826, 5517 851, 5542 826, 5542 776, 5517 751" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5507" y="871">Y</text>
+
+  <polygon fill="#ffff80" points="6517 551, 6517 576, 6392 576, 6367 551, 6392 526, 6517 526, 6517 551" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="6567" y="551">Y0</text>
+
+  <polyline fill="none" points="5267 1051, 5367 1051" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4467 1051, 4567 1051" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3667 1051, 3767 1051" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2967 1051, 2517 1051, 2517 1551" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="6517 1351, 6517 1376, 6392 1376, 6367 1351, 6392 1326, 6517 1326, 6517 1351" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="6567" y="1351">Y1</text>
+
+  <polyline fill="none" points="6367 1351, 5267 1351, 2317 1351, 2317 1551" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="6517 2151, 6517 2176, 6392 2176, 6367 2151, 6392 2126, 6517 2126, 6517 2151" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="6567" y="2151">Y2</text>
+
+  <polyline fill="none" points="6367 2151, 4467 2151, 1517 2151, 1517 2351" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="6517 2951, 6517 2976, 6392 2976, 6367 2951, 6392 2926, 6517 2926, 6517 2951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="6567" y="2951">Y3</text>
+
+  <polyline fill="none" points="6367 2951, 3667 2951, 717 2951, 717 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="3317" x2="3317" y1="701" y2="751"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="3267 651, 3367 651, 3317 701, 3267 651" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="30" font-weight="700" text-anchor="start" x="3307" y="691">0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="3307" y="621">U1</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="3247" y="651">DIGITAL0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="4117" x2="4117" y1="701" y2="751"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="4067 651, 4167 651, 4117 701, 4067 651" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="30" font-weight="700" text-anchor="start" x="4107" y="691">0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="4107" y="621">U2</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="4047" y="651">DIGITAL0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="4917" x2="4917" y1="701" y2="751"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="4867 651, 4967 651, 4917 701, 4867 651" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="30" font-weight="700" text-anchor="start" x="4907" y="691">0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="4907" y="621">U3</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="4847" y="651">DIGITAL0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="5717" x2="5717" y1="701" y2="751"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="5667 651, 5767 651, 5717 701, 5667 651" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="30" font-weight="700" text-anchor="start" x="5707" y="691">0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="5707" y="621">U4</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="5647" y="651">DIGITAL0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="6117" x2="6067" y1="1051" y2="1051"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="6167 1001, 6167 1101, 6117 1051, 6167 1001" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="30" font-weight="700" text-anchor="start" transform="rotate(90 6127 1041)" x="6127" y="1041">0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" transform="rotate(90 6197 1041)" x="6197" y="1041">U5</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" transform="rotate(90 6167 981)" x="6167" y="981">DIGITAL0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="5317" x2="5267" y1="1851" y2="1851"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="5367 1801, 5367 1901, 5317 1851, 5367 1801" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="30" font-weight="700" text-anchor="start" transform="rotate(90 5327 1841)" x="5327" y="1841">0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" transform="rotate(90 5397 1841)" x="5397" y="1841">U6</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" transform="rotate(90 5367 1781)" x="5367" y="1781">DIGITAL0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="4517" x2="4467" y1="2651" y2="2651"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="4567 2601, 4567 2701, 4517 2651, 4567 2601" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="30" font-weight="700" text-anchor="start" transform="rotate(90 4527 2641)" x="4527" y="2641">0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" transform="rotate(90 4597 2641)" x="4597" y="2641">U7</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" transform="rotate(90 4567 2581)" x="4567" y="2581">DIGITAL0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="3717" x2="3667" y1="3451" y2="3451"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="3767 3401, 3767 3501, 3717 3451, 3767 3401" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="30" font-weight="700" text-anchor="start" transform="rotate(90 3727 3441)" x="3727" y="3441">0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" transform="rotate(90 3797 3441)" x="3797" y="3441">U8</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" transform="rotate(90 3767 3381)" x="3767" y="3381">DIGITAL0</text>
+
+  <polygon fill="#ffff80" points="3517 201, 3542 201, 3542 326, 3517 351, 3492 326, 3492 201, 3517 201" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="3397" y="91">X3</text>
+
+  <polygon fill="#ffff80" points="4317 201, 4342 201, 4342 326, 4317 351, 4292 326, 4292 201, 4317 201" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="4197" y="91">X2</text>
+
+  <polygon fill="#ffff80" points="5117 201, 5142 201, 5142 326, 5117 351, 5092 326, 5092 201, 5117 201" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="4997" y="91">X1</text>
+
+  <polygon fill="#ffff80" points="5917 201, 5942 201, 5942 326, 5917 351, 5892 326, 5892 201, 5917 201" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="5797" y="91">X0</text>
+
+  <polyline fill="none" points="5917 351, 5917 751, 3517 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="5117 351, 5117 751, 2717 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4317 351, 4317 751, 1917 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3517 351, 3517 751, 1117 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4917 1251, 4917 1551" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4117 1251, 4117 1551" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3317 1251, 3317 1551" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4117 2051, 4117 2351" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3317 2051, 3317 2351" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2517 2051, 2517 2351" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2167 1851, 1717 1851, 1717 2351" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4467 1851, 4567 1851" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3667 1851, 3767 1851" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2867 1851, 2967 1851" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3667 2651, 3767 2651" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2867 2651, 2967 2651" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2067 2651, 2167 2651" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1367 2651, 917 2651, 917 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3317 2851, 3317 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2517 2851, 2517 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1717 2851, 1717 3151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2867 3451, 2967 3451" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2067 3451, 2167 3451" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1267 3451, 1367 3451" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="117 3951, 142 3951, 142 4076, 117 4101, 92 4076, 92 3951, 117 3951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="17" y="4201">P7</text>
+
+  <polygon fill="#ffff80" points="917 3951, 942 3951, 942 4076, 917 4101, 892 4076, 892 3951, 917 3951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="817" y="4201">P6</text>
+
+  <polygon fill="#ffff80" points="1717 3951, 1742 3951, 1742 4076, 1717 4101, 1692 4076, 1692 3951, 1717 3951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="1617" y="4201">P5</text>
+
+  <polygon fill="#ffff80" points="2517 3951, 2542 3951, 2542 4076, 2517 4101, 2492 4076, 2492 3951, 2517 3951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="2417" y="4201">P4</text>
+
+  <polygon fill="#ffff80" points="3317 3951, 3342 3951, 3342 4076, 3317 4101, 3292 4076, 3292 3951, 3317 3951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="3217" y="4201">P3</text>
+
+  <polygon fill="#ffff80" points="4117 3951, 4142 3951, 4142 4076, 4117 4101, 4092 4076, 4092 3951, 4117 3951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="4017" y="4201">P2</text>
+
+  <polygon fill="#ffff80" points="4917 3951, 4942 3951, 4942 4076, 4917 4101, 4892 4076, 4892 3951, 4917 3951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="4817" y="4201">P1</text>
+
+  <polygon fill="#ffff80" points="5717 3951, 5742 3951, 5742 4076, 5717 4101, 5692 4076, 5692 3951, 5717 3951" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="160" font-weight="400" text-anchor="start" x="5617" y="4201">P0</text>
+
+  <polyline fill="none" points="567 3451, 117 3451, 117 3951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="917 3651, 917 3951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1717 3651, 1717 3951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2517 3651, 2517 3951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3317 3651, 3317 3951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4117 2851, 4117 3951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4917 2051, 4917 3951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="5717 1251, 5717 3951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="6267" y="551">Y0</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="5917" y="421">X0</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="5117" y="421">X1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="4317" y="421">X2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="3517" y="421">X3</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="5717" y="3951">P0</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="6267" y="1351">Y1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="6267" y="2151">Y2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="6267" y="2951">Y3</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="4917" y="3951">P1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="4117" y="3951">P2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="117" y="3951">P7</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="917" y="3951">P6</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="1717" y="3951">P5</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="2517" y="3951">P4</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="55" font-weight="400" text-anchor="start" x="3317" y="3951">P3</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="250" font-weight="700" text-anchor="start" x="237" y="1251">四位阵列乘法器</text>
+
+  <polyline fill="none" points="3117 1551, 3117 1351" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3917 1551, 3917 1351" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4717 1551, 4717 1351" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2317 2351, 2317 2151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3117 2351, 3117 2151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3917 2351, 3917 2151" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1517 3151, 1517 2951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2317 3151, 2317 2951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3117 3151, 3117 2951" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="6367 551, 3117 551, 3117 751" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3917 751, 3917 551" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="4717 751, 4717 551" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="5517 751, 5517 551" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="5297" y="1051">NetLable1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4487" y="1051">NetLable2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3687" y="1051">NetLable3</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2707" y="1051">NetLable4</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4917" y="1451">NetLable5</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4117" y="1451">NetLable6</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3317" y="1451">NetLable7</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4477" y="1851">NetLable8</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3677" y="1851">NetLable9</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2877" y="1851">NetLable10</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1887" y="1851">NetLable11</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="4117" y="2251">NetLable12</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3317" y="2251">NetLable13</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2517" y="2251">NetLable14</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3677" y="2651">NetLable15</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2877" y="2651">NetLable16</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2077" y="2651">NetLable17</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1087" y="2651">NetLable18</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3317" y="3051">NetLable19</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2517" y="3051">NetLable20</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1717" y="3051">NetLable21</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2877" y="3451">NetLable22</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2077" y="3451">NetLable23</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1277" y="3451">NetLable24</text>
+
+  <circle cx="3117" cy="1351" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3917" cy="1351" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="4717" cy="1351" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2317" cy="2151" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3117" cy="2151" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3917" cy="2151" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3117" cy="2951" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2317" cy="2951" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1517" cy="2951" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3917" cy="551" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="4717" cy="551" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="5517" cy="551" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+</svg>

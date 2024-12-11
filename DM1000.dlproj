@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<project id="9f9ed1d6-0d0e-4f81-9f67-979cbbbdb80a" name="DM1000" version="1">
+
+  <files>
+    <filefolder id="a9f57fc8-c239-4574-a5da-f8fa2760024b" name="子模块">
+      <file relativepath="ALU.dlsche"/>
+      <file relativepath="PC.dlsche"/>
+      <file relativepath="REG.dlsche"/>
+      <file relativepath="MEM.dlsche"/>
+      <file relativepath="CU.dlsche"/>
+      <file relativepath="uPC_NEXT.dlsche"/>
+      <file relativepath="MUL.dlsche"/>
+      <file relativepath="MUL_unit.dlsche"/>
+    </filefolder>
+    <filefolder id="80f1035e-e898-408b-bb0c-e69c72ad13b4" name="汇编源程序">
+      <file relativepath="ram.asm"/>
+      <file relativepath="ram.bat"/>
+    </filefolder>
+    <filefolder id="03f70f98-2bea-4829-91ee-a9e5f6ee0c87" name="微指令源程序">
+      <file relativepath="rom.masm"/>
+      <file relativepath="rom.bat"/>
+    </filefolder>
+    <filefolder id="be71b6f0-d920-4758-8b3a-3a343b490c2e" name="存储器映射文件">
+      <file relativepath="ram.rxm"/>
+      <file relativepath="rom.rxm"/>
+    </filefolder>
+    <file relativepath="DM1000.dlsche"/>
+    <file relativepath="README.md"/>
+  </files>
+
+</project>

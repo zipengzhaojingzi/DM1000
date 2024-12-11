@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg height="1244" version="1.1" width="1944" xmlns="http://www.w3.org/2000/svg">
+
+  <polygon fill="#ffff80" points="20 296, 20 271, 145 271, 170 296, 145 321, 20 321, 20 296" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="296">ABUS[7..0]</text>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="356" y2="406"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="376" y2="426"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="396" y2="446"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="416" y2="466"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="436" y2="486"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="456" y2="506"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="476" y2="526"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="496" y2="546"/>
+
+  <polyline fill="none" points="270 406, 540 406" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 426, 540 426" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 446, 540 446" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 466, 540 466" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 486, 540 486" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 506, 540 506" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 526, 540 526" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 546, 540 546" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="340" y="406">ABUS0</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="340" y="426">ABUS1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="340" y="446">ABUS2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="340" y="466">ABUS3</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="340" y="486">ABUS4</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="340" y="506">ABUS5</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="340" y="526">ABUS6</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="340" y="546">ABUS7</text>
+
+  <polygon fill="#ffff80" points="20 616, 20 591, 145 591, 170 616, 145 641, 20 641, 20 616" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="616">DBUS[7..0]</text>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="796" y2="746"/>
+
+  <polyline fill="none" points="540 746, 270 746" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="776" y2="726"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="756" y2="706"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="736" y2="686"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="716" y2="666"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="696" y2="646"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="676" y2="626"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="220" x2="270" y1="656" y2="606"/>
+
+  <polyline fill="none" points="270 726, 540 726" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 706, 540 706" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 686, 540 686" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 666, 540 666" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 646, 540 646" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 626, 540 626" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="270 606, 540 606" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="310" y="606">DBUS0</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="310" y="626">DBUS1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="310" y="646">DBUS2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="310" y="666">DBUS3</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="310" y="686">DBUS4</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="310" y="706">DBUS5</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="310" y="726">DBUS6</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="12" font-weight="400" text-anchor="start" x="310" y="746">DBUS7</text>
+
+  <polygon fill="#ffff80" points="20 906, 20 881, 145 881, 170 906, 145 931, 20 931, 20 906" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="906">MEM_WR</text>
+
+  <polygon fill="#ffff80" points="20 1016, 20 991, 145 991, 170 1016, 145 1041, 20 1041, 20 1016" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="1016">CLK</text>
+
+  <polyline fill="none" points="170 1016, 540 1016, 540 826" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="170 906, 510 906, 510 806, 540 806" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="20 1196, 20 1171, 245 1171, 270 1196, 245 1221, 20 1221, 20 1196" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="1196">MEM_GATE_EN</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="22" font-weight="400" text-anchor="start" x="1480" y="406">DBUS0</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="22" font-weight="400" text-anchor="start" x="1480" y="436">DBUS1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="22" font-weight="400" text-anchor="start" x="1480" y="466">DBUS2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="22" font-weight="400" text-anchor="start" x="1480" y="496">DBUS3</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="22" font-weight="400" text-anchor="start" x="1480" y="526">DBUS4</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="22" font-weight="400" text-anchor="start" x="1480" y="556">DBUS5</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="22" font-weight="400" text-anchor="start" x="1480" y="586">DBUS6</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="22" font-weight="400" text-anchor="start" x="1480" y="616">DBUS7</text>
+
+  <polyline fill="none" points="1430 406, 1630 406" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1430 436, 1630 436" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1430 466, 1630 466" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1430 496, 1630 496" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1430 526, 1630 526" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1430 556, 1630 556" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1430 586, 1630 586" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1430 616, 1630 616" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="1630" x2="1680" y1="406" y2="356"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="1630" x2="1680" y1="436" y2="386"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="1630" x2="1680" y1="466" y2="416"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="1630" x2="1680" y1="496" y2="446"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="1630" x2="1680" y1="526" y2="476"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="1630" x2="1680" y1="556" y2="506"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="1630" x2="1680" y1="586" y2="536"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="1630" x2="1680" y1="616" y2="566"/>
+
+  <polygon fill="#ffff80" points="1770 306, 1770 281, 1895 281, 1920 306, 1895 331, 1770 331, 1770 306" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1770" y="306">DBUS[7..0]</text>
+
+  <polyline fill="none" points="790 406, 1180 406" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="790 426, 1080 426, 1080 436, 1180 436" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="790 446, 1060 446, 1060 466, 1180 466" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="790 466, 1040 466, 1040 496, 1180 496" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="790 486, 1010 486, 1010 526, 1180 526" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="790 506, 980 506, 980 556, 1180 556" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="790 526, 950 526, 950 586, 1180 586" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="790 546, 920 546, 920 616, 1180 616" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="150" font-weight="700" text-anchor="start" x="330" y="196">存储器MEM模块</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1230" x2="1180" y1="406" y2="406"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1263" y="406">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1230" x2="1180" y1="436" y2="436"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1263" y="436">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1230" x2="1180" y1="466" y2="466"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1263" y="466">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1230" x2="1180" y1="496" y2="496"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1263" y="496">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1230" x2="1180" y1="526" y2="526"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1263" y="526">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1230" x2="1180" y1="556" y2="556"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1263" y="556">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1230" x2="1180" y1="586" y2="586"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1263" y="586">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1230" x2="1180" y1="616" y2="616"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1263" y="616">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1380" x2="1430" y1="406" y2="406"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1347" y="406">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1380" x2="1430" y1="436" y2="436"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1347" y="436">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1380" x2="1430" y1="466" y2="466"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1347" y="466">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1380" x2="1430" y1="496" y2="496"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1347" y="496">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1380" x2="1430" y1="526" y2="526"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1347" y="526">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1380" x2="1430" y1="556" y2="556"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1347" y="556">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1380" x2="1430" y1="586" y2="586"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1347" y="586">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1380" x2="1430" y1="616" y2="616"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1347" y="616">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1220" x2="1180" y1="676" y2="676"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1274" y="675">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1230" y="366"/>
+
+  <circle cx="1225" cy="676" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1230" y="356">MEM_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1230" y="766">BUS_TRANS8</text>
+
+  <polyline fill="none" points="220 796, 220 616, 170 616" stroke="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+
+  <polyline fill="none" points="270 1196, 1180 1196, 1180 676" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1770 306, 1680 306, 1680 566" stroke="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="406" y2="406"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="406">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="426" y2="426"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="426">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="446" y2="446"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="446">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="466" y2="466"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="466">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="486" y2="486"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="486">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="506" y2="506"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="506">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="526" y2="526"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="526">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="546" y2="546"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="546">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="606" y2="606"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="606">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="626" y2="626"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="626">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="646" y2="646"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="646">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="666" y2="666"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="666">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="686" y2="686"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="686">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="706" y2="706"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="706">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="726" y2="726"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="726">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="746" y2="746"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="623" y="746">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="740" x2="790" y1="406" y2="406"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="707" y="406">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="740" x2="790" y1="426" y2="426"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="707" y="426">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="740" x2="790" y1="446" y2="446"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="707" y="446">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="740" x2="790" y1="466" y2="466"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="707" y="466">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="740" x2="790" y1="486" y2="486"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="707" y="486">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="740" x2="790" y1="506" y2="506"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="707" y="506">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="740" x2="790" y1="526" y2="526"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="707" y="526">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="740" x2="790" y1="546" y2="546"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="707" y="546">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="580" x2="540" y1="806" y2="806"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="656" y="806">^W\R</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="590" x2="540" y1="826" y2="826"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="643" y="826">CLK</text>
+
+  <rect fill="#ff8057" fill-opacity="0.5" height="490" stroke="#000000" stroke-width="5" width="150" x="590" y="376"/>
+
+  <polyline fill="none" points="590 816, 600 826, 590 836" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+
+  <circle cx="585" cy="806" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="65" font-weight="700" text-anchor="start" x="580" y="366">RAM</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="610" y="906">256RAM1</text>
+
+  <polyline fill="none" points="220 496, 220 296, 170 296" stroke="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+
+</svg>

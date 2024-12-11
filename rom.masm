@@ -1,0 +1,510 @@
+
+
+; 所有指令的第一条微指令地址必须是8的倍数
+; 取指微指令，所有指令的第一步均为取指操作，都要执行该条微指令
+path [pc], ir
+
+; 填充空白指令 01-1f
+dup 31, null
+
+; add a, rx
+path rx, w					;将寄存器 R 的内容传送到工作寄存器 W 中，R 的内容不变
+path alu_add, a				;累加器 A 与工作寄存器 W 进行无进位加运算，结果写回 A 中，即A=A+W 
+inc pc						;PC 加1，指向下一个字节单元
+reset upc					;uPC 寄存器复位为0，指向第一条微指令，该微指令完成取指令功能
+
+dup 4, null
+
+; add a, [rx]
+path rx, mar				;将寄存器 R 的内容传送到地址寄存器 MAR，R 的内容不变
+path [mar], w				;读出地址寄存器 MAR 指定存储单元的内容并写入工作寄存器 W 中
+path alu_add, a				
+inc pc
+
+reset upc
+
+dup 3, null
+
+; add a, symbol
+inc pc
+path [pc], mar				;读出 PC 指定存储单元的内容并写入地址寄存器 MAR
+path [mar], w				
+path alu_add, a
+inc pc
+reset upc
+
+dup 2, null
+
+; add a, immediate
+inc pc
+path [pc], w				;读出 PC 指定存储单元的内容并写入工作寄存器 W
+path alu_add, a
+inc pc
+reset upc
+
+dup 3, null
+
+; adc a, rx
+path rx, w
+path alu_adc, a				;累加器 A 与工作寄存器 W 进行带进位的加法运算，结果写回 A 中，即A=A+W+1 
+inc pc
+reset upc
+
+dup 4, null
+
+; adc a, [rx]
+path rx, mar
+path [mar], w
+path alu_adc, a
+inc pc
+reset upc
+
+dup 3, null
+
+; adc a, symbol
+inc pc
+path [pc], mar
+path [mar], w
+path alu_adc, a
+inc pc
+reset upc
+
+dup 2, null
+
+; adc a, immediate
+inc pc
+path [pc], w
+path alu_adc, a
+inc pc
+reset upc
+
+dup 3, null
+
+; sub a, rx
+path rx, w
+path alu_sub, a				;累加器 A 减 W 进行减法运算，结果写回 A 中，即A=A-W 
+inc pc
+reset upc
+
+dup 4, null
+
+; sub a, [rx]
+path rx, mar
+path [mar], w
+path alu_sub, a
+inc pc
+reset upc
+
+dup 3, null
+
+; sub a, symbol
+inc pc
+path [pc], mar
+path [mar], w
+path alu_sub, a
+inc pc
+reset upc
+
+dup 2, null
+
+; sub a, immediate
+inc pc
+path [pc], w
+path alu_sub, a
+inc pc
+reset upc
+
+dup 3, null
+
+; sbb a, rx
+path rx, w
+path alu_sbb, a				;累加器 A 与工作寄存器 W 进行带进位的减法运算，结果写回 A 中，即A=A-W-1 
+inc pc
+reset upc
+
+dup 4, null
+
+; sbb a, [rx]
+path rx, mar
+path [mar], w
+path alu_sbb, a
+inc pc
+reset upc
+
+dup 3, null
+
+; sbb a, symbol
+inc pc
+path [pc], mar
+path [mar], w
+path alu_sbb, a
+inc pc
+reset upc
+
+dup 2, null
+
+; sbb a, immediate
+inc pc
+path [pc], w
+path alu_sbb, a
+inc pc
+reset upc
+
+dup 3, null
+
+; and a, rx
+path rx, w
+path alu_and a				;A = A & W，A与W进行按位与运算
+inc pc
+reset upc
+
+dup 4, null
+
+; and a, [rx]
+path rx, mar
+path [mar], w
+path alu_and, a
+inc pc
+reset upc
+
+dup 3, null
+
+; and a, symbol
+inc pc
+path [pc], mar
+path [mar], w
+path alu_and, a
+inc pc
+reset upc
+
+dup 2, null
+
+; and a, immediate
+inc pc
+path [pc], w
+path alu_and, a
+inc pc
+reset upc
+
+dup 3, null
+
+; or a, rx
+path rx, w
+path alu_or a				;A = A | W，A与W进行按位或运算
+inc pc
+reset upc
+
+dup 4, null
+
+; or a, [rx]
+path rx, mar
+path [mar], w
+path alu_or, a
+inc pc
+reset upc
+
+dup 3, null
+
+; or a, symbol
+inc pc
+path [pc], mar
+path [mar], w
+path alu_or, a
+inc pc
+reset upc
+
+dup 2, null
+
+; or a, immediate
+inc pc
+path [pc], w
+path alu_or, a
+inc pc
+reset upc
+
+dup 3, null
+
+; mov a, rx
+path rx, a				;将寄存器 R 的内容传送到累加器 A 中
+inc pc
+reset upc
+
+dup 5, null
+
+; mov a, [rx]
+path rx, mar			;将寄存器 R 的内容传送到地址寄存器 MAR 中
+path [mar], a			;将地址寄存器MAR指定存储单元的内容传送到累加器 A 中
+inc pc
+reset upc
+
+dup 4, null
+
+; mov a, symbol
+inc pc
+path [pc], mar			;将程序计数器 PC 指定存储单元的内容传送到 MAR 中
+path [mar], a
+inc pc
+reset upc
+
+dup 3, null
+
+; mov a, immediate
+inc pc
+path [pc], a			;将程序计数器 PC 指定存储单元的内容传送到 A 中
+inc pc
+reset upc
+
+dup 4, null
+
+; mov rx, a
+path a, rx				;将累加器 A 的内容传送到寄存器 R 中
+inc pc
+reset upc
+
+dup 5, null
+
+; mov [rx], a
+path rx, mar			;将寄存器 R 的内容传送到地址寄存器 MAR 中
+path a, [mar]			;将累加器 A 的内容写入地址寄存器 MAR 指定存储单元中
+inc pc
+reset upc
+
+dup 4, null
+
+; mov symbol, a
+inc pc
+path [pc], mar			;将 PC 指定存储单元的内容传送到地址寄存器 MAR 中
+path a, [mar]
+inc pc
+reset upc
+
+dup 3, null
+
+; mov rx, immediate
+inc pc
+path [pc], rx			;将　PC 指定存储单元的内容传送到寄存器 R 中
+inc pc
+reset upc
+
+dup 4, null
+
+; 填充空白指令
+;dup 8, null have gone 
+;rcrnum a ,n
+inc pc
+path [pc], w
+path alu_rcr_num, a
+inc pc
+reset upc
+
+dup 3 null
+
+; 填充空白指令
+;dup 8, null have gone 
+;rclnum a ,n
+inc pc
+path [pc], w
+path alu_rcl_num, a
+inc pc
+reset upc
+
+dup 3 null
+
+; lea a, symbol
+inc pc
+path [pc], a
+inc pc
+reset upc
+
+dup 4, null
+
+;mov sp, immediate
+inc pc
+path [pc], sp 			;将 PC 指定存储单元的内容传送到栈指针寄存器 SP 中
+inc pc
+reset upc
+
+dup 4, null
+
+; jc symbol
+inc pc
+path [pc], pc			;将 PC 指定存储单元的内容作为指令地址加载到 PC 中，实现程序跳转
+reset upc
+
+dup 5, null
+
+; jz symbol
+inc pc
+path [pc], pc
+reset upc
+
+dup 5, null
+
+; 填充空白指令
+;dup 8, null have gone 
+;shrnum a ,n
+inc pc
+path [pc], w
+path alu_shr_num, a
+inc pc
+reset upc
+
+dup 3 null
+
+; jmp symbol
+inc pc
+path [pc], pc
+reset upc
+
+dup 5, null
+
+; in
+path rin, a				;将输入寄存器 RIN 的内容传送到累加器 A 中
+inc pc
+reset upc
+
+dup 5, null
+
+; out
+path a, rout			;将累加器 A 中的内容传送到输出寄存器 ROUT 中
+inc pc
+reset upc
+
+dup 5, null
+
+;=======================================================================
+;软中断，通过执行软中断指令，调用指定的中断服务程序
+;软中断指令是双字节指令，第二个字节是立即数操作数，指调用中断的标号
+; int immediate
+inc pc				;PC+1，指向指令中的立即数操作数，即中断号，准备读出
+path [pc], ia		;将读出的中断号写入寄存器 IA 中，将来自于立即数的低3位中断号与IA寄存器的高5位中断向量起始地址组合，得到调用中断的中断向量
+path sp, csp		;栈指针寄存器的值传送到计数器CSP中
+path sp_dec, csp	;CSP计数器减1
+path csp, sp		;将CSP减1后的结果写入SP中，完成SP-1，入栈，更新栈顶
+path sp, mar		;将SP指针暂存到MAR
+inc pc				;PC+1,中断返回地址，指向下一条指令
+path pc, [mar]		;将PC值写入MAR指定存储单元，在这里实现的功能是将中断返回地址（PC）写入栈指针（SP）指定的存储单元中
+path ia, mar		;将寄存器IA 的内容作为地址写入 MAR，在这里实现的功能是将调用中断的中断向量写入地址寄存器MAR中，准备读出中断向量指定单元的中断服务程序入口地址
+path [mar], pc		;将地址寄存器MAR指定单元的内容加载到PC中，在这里实现的功能是将调用中断的服务程序首地址加载到PC，使处理器转去执行中断服务程序
+reset upc
+dup 5, null
+
+;=======================================================================
+;
+dup 16, null
+
+;=======================================================================
+;子程序调用返回指令
+; ret
+
+; 返回地址出栈
+path sp, mar			;将栈指针（栈顶地址）传送到 MAR
+path [mar], pc			;将返回地址加载到PC
+
+; 出栈时，栈顶向高地址方向生长，sp+1指向新的栈顶
+path sp, csp			
+path sp_inc, csp		
+path csp, sp			;SP = SP + 1，出栈，更新栈顶
+reset upc
+
+dup 2, null
+
+;=======================================================================
+
+; 填充空白指令
+;dup 8, null have gone 
+;shlnum a ,n
+inc pc
+path [pc], w
+path alu_shl_num, a
+inc pc
+reset upc
+
+dup 3 null
+
+
+; shr a
+path alu_shr, a			;累加器A 进行逻辑右移，结果写回A中
+inc pc
+reset upc
+
+dup 5, null
+
+; shl a
+path alu_shl, a			;累加器A 进行逻辑左移，结果写回A中
+inc pc
+reset upc
+
+dup 5, null
+
+
+; rcr a
+path alu_rcr, a			;累加器A 进行循环右移，结果写回A中
+inc pc
+reset upc
+
+dup 5, null
+
+; rcl a
+path alu_rcl, a			;累加器A 进行循环左移，结果写回A中
+inc pc
+reset upc
+dup 5, null
+
+; nop
+inc pc
+reset upc
+
+dup 6, null
+
+; not a
+path alu_not, a			;累加器A 取反运算，结果写回A中
+inc pc
+reset upc
+
+dup 5, null
+
+;=============================================================
+;子程序调用指令，双字节指令，第二个字节是调用子程序标号，该标号实质为一个地址，所指存储单元中就是被调用子程序的入口地址（起始地址）
+; call symbol
+
+; 将子程序入口地址保存到辅助寄存器asr中
+inc pc					;PC+1
+path [pc], asr			;将PC指向存储单元内容写入辅助寄存器ASR中，也就是将被调用子程序的入口地址暂存到ASR中
+
+; pc+1，得到返回地址
+inc pc					;PC+1，指向下一条指令，即返回地址
+
+; sp-1，为返回地址入栈分配一个新的空间，入栈时，栈顶向低地址方向生长
+path sp, csp
+path sp_dec, csp		
+path csp, sp			;返回地址入栈前，先将SP-1，指向新的栈顶
+
+; 返回地址入栈
+path sp, mar
+path pc, [mar]			;将PC（返回地址）入栈
+
+; 将调用子程序入口地址加载到PC，实现子程序调用
+path asr, pc			;将ASR寄存器的值加载到PC，也就是将调用子程序的入口地址加载到PC，转移到子程序处执行
+reset upc
+
+dup 6, null
+
+; 填充空白指令
+dup 16, null
+
+
+;===============================================================
+;中断返回指令，可参照子程序调用返回指令，出栈
+; iret
+path sp, mar
+path sp, csp
+path sp_inc, csp
+path csp, sp
+path [mar], pc
+reset upc
+
+dup 2, null
+
+
+

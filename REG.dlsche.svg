@@ -1,0 +1,2228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg height="5363" version="1.1" width="3808" xmlns="http://www.w3.org/2000/svg">
+
+  <polygon fill="#ffff80" points="21 135, 21 110, 146 110, 171 135, 146 160, 21 160, 21 135" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="135">IR0</text>
+
+  <polygon fill="#ffff80" points="21 235, 21 210, 146 210, 171 235, 146 260, 21 260, 21 235" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="235">IR1</text>
+
+  <polygon fill="#ffff80" points="21 365, 21 340, 146 340, 171 365, 146 390, 21 390, 21 365" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="365">REG_WR</text>
+
+  <polygon fill="#ffff80" points="21 445, 21 420, 166 420, 191 445, 166 470, 21 470, 21 445" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="445">REG_READ</text>
+
+  <polygon fill="#ffff80" points="21 5315, 21 5290, 146 5290, 171 5315, 146 5340, 21 5340, 21 5315" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="5315">CLK</text>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="361" x2="311" y1="655" y2="605"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="361" x2="311" y1="685" y2="635"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="361" x2="311" y1="715" y2="665"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="361" x2="311" y1="745" y2="695"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="361" x2="311" y1="775" y2="725"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="361" x2="311" y1="805" y2="755"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="361" x2="311" y1="835" y2="785"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="361" x2="311" y1="865" y2="815"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="881" x2="841" y1="365" y2="365"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="943" y="362">^1G</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="864" y="365">1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="891" x2="841" y1="275" y2="275"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="924" y="276">A</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="863" y="274">2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="891" x2="841" y1="305" y2="305"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="924" y="305">B</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="863" y="304">3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1051" x2="1091" y1="275" y2="275"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="middle" x="1010" y="281">Y0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1070" y="275">4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1051" x2="1091" y1="305" y2="305"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="middle" x="1011" y="309">Y1</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1070" y="305">5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1051" x2="1091" y1="335" y2="335"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="middle" x="1011" y="337">Y2</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1070" y="335">6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1051" x2="1091" y1="365" y2="365"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="middle" x="1011" y="365">Y3</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1071" y="366">7</text>
+
+  <circle cx="886" cy="365" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1046" cy="275" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1047" cy="365" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1046" cy="336" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1046" cy="305" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <rect fill="#ffffff" fill-opacity="0.5" height="124" stroke="#000000" stroke-width="5" width="146" x="893" y="259"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="960" y="253">U9</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="895" y="425">74LS139D</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1401" x2="1361" y1="365" y2="365"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1463" y="362">^1G</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1384" y="365">1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1411" x2="1361" y1="275" y2="275"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1444" y="276">A</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1383" y="274">2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1411" x2="1361" y1="305" y2="305"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1444" y="305">B</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1383" y="304">3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1571" x2="1611" y1="275" y2="275"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="middle" x="1530" y="281">Y0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1590" y="275">4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1571" x2="1611" y1="305" y2="305"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="middle" x="1531" y="309">Y1</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1590" y="305">5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1571" x2="1611" y1="335" y2="335"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="middle" x="1531" y="337">Y2</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1590" y="335">6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1571" x2="1611" y1="365" y2="365"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="middle" x="1531" y="365">Y3</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1591" y="366">7</text>
+
+  <circle cx="1406" cy="365" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1566" cy="275" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1567" cy="365" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1566" cy="336" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1566" cy="305" fill="none" r="4" stroke="#000000" stroke-width="5"/>
+
+  <rect fill="#ffffff" fill-opacity="0.5" height="124" stroke="#000000" stroke-width="5" width="146" x="1413" y="259"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1480" y="253">U10</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1415" y="425">74LS139D</text>
+
+  <polyline fill="none" points="841 365, 611 365, 261 365, 171 365" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1361 365, 1361 445, 611 445, 261 445, 191 445" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="841 305, 761 305, 761 235, 611 235, 261 235, 171 235" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="841 275, 841 135, 611 135, 261 135, 171 135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="841 135, 1361 135, 1361 275" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="761 235, 1331 235, 1331 305, 1361 305" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="821" y="655">DBUS0</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="821" y="685">DBUS1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="821" y="715">DBUS2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="821" y="745">DBUS3</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="821" y="775">DBUS4</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="821" y="805">DBUS5</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="821" y="835">DBUS6</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="821" y="865">DBUS7</text>
+
+  <polyline fill="none" points="1611 275, 1741 275, 1741 925, 1761 925" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1611 305, 1721 305, 1721 1405, 1761 1405" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1611 335, 1701 335, 1701 1905, 1761 1905" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1611 365, 1681 365, 1681 2405, 1761 2405" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 655, 1431 655" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 685, 1761 685" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 715, 1431 715" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 745, 1761 745" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 775, 1431 775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 805, 1761 805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 835, 1431 835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 865, 1761 865" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 1135, 1431 1135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 1165, 1761 1165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 1195, 1431 1195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 1225, 1761 1225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 1255, 1431 1255" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 1285, 1761 1285" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 1315, 1431 1315" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 1345, 1761 1345" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 1635, 1431 1635" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 1665, 1761 1665" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 1695, 1431 1695" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 1725, 1751 1725, 1761 1725" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 1755, 1431 1755" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 1785, 1761 1785" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 1815, 1431 1815" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 1845, 1761 1845" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 2135, 1431 2135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2165, 1761 2165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 2195, 1431 2195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2225, 1761 2225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 2255, 1431 2255" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2285, 1761 2285" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 2315, 1431 2315" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2345, 1761 2345" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1935, 981 1935, 831 1935" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1435, 981 1435, 831 1435" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1091 275, 1281 275, 1281 545, 1051 545, 1051 925, 1081 925" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1091 305, 1271 305, 1271 525, 1271 535, 1041 535, 1041 1405, 1081 1405" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1091 335, 1261 335, 1261 525, 1031 525, 1031 1905, 1081 1905" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1091 365, 1251 365, 1251 515, 1021 515, 1021 2405, 1081 2405" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2231" y="655">DBUS0</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2231" y="685">DBUS1</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2231" y="715">DBUS2</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2231" y="745">DBUS3</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2231" y="775">DBUS4</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2231" y="805">DBUS5</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2231" y="835">DBUS6</text>
+
+  <text alignment-baseline="after-edge" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="2231" y="865">DBUS7</text>
+
+  <polyline fill="none" points="1081 955, 831 955, 831 2435" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="655" y2="655"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="655">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="685" y2="685"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="685">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="715" y2="715"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="715">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="745" y2="745"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="745">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="775" y2="775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="775">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="805" y2="805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="805">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="835" y2="835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="835">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="865" y2="865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="865">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="655" y2="655"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="655">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="685" y2="685"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="685">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="715" y2="715"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="715">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="745" y2="745"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="745">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="775" y2="775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="775">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="805" y2="805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="805">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="835" y2="835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="835">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="865" y2="865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="865">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1121" x2="1081" y1="925" y2="925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="925">^EN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="955" y2="955"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="955">CLK</text>
+
+  <rect fill="#c0dcc0" fill-opacity="0.5" height="400" stroke="#000000" stroke-width="5" width="250" x="1131" y="605"/>
+
+  <polyline fill="none" points="1131 945, 1141 955, 1131 965" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <circle cx="1126" cy="925" fill="#ffffff" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="45" font-weight="700" text-anchor="start" x="1211" y="605">R0</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1181" y="1035">REG_EN8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1135" y2="1135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1135">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1165" y2="1165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1165">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1195" y2="1195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1195">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1225" y2="1225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1225">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1255" y2="1255"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1255">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1285" y2="1285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1285">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1315" y2="1315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1315">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1345" y2="1345"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1345">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1135" y2="1135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1135">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1165" y2="1165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1165">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1195" y2="1195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1195">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1225" y2="1225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1225">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1255" y2="1255"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1255">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1285" y2="1285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1285">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1315" y2="1315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1315">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1345" y2="1345"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1345">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1121" x2="1081" y1="1405" y2="1405"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="1405">^EN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1435" y2="1435"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="1435">CLK</text>
+
+  <rect fill="#c0dcc0" fill-opacity="0.5" height="400" stroke="#000000" stroke-width="5" width="250" x="1131" y="1085"/>
+
+  <polyline fill="none" points="1131 1425, 1141 1435, 1131 1445" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <circle cx="1126" cy="1405" fill="#ffffff" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="45" font-weight="700" text-anchor="start" x="1221" y="1095">R1</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1181" y="1525">REG_EN8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1635" y2="1635"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1635">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1665" y2="1665"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1665">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1695" y2="1695"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1695">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1725" y2="1725"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1725">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1755" y2="1755"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1755">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1785" y2="1785"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1785">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1815" y2="1815"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1815">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1845" y2="1845"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="1845">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1635" y2="1635"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1635">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1665" y2="1665"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1665">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1695" y2="1695"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1695">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1725" y2="1725"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1725">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1755" y2="1755"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1755">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1785" y2="1785"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1785">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1815" y2="1815"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1815">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="1845" y2="1845"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="1845">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1121" x2="1081" y1="1905" y2="1905"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="1905">^EN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="1935" y2="1935"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="1935">CLK</text>
+
+  <rect fill="#c0dcc0" fill-opacity="0.5" height="400" stroke="#000000" stroke-width="5" width="250" x="1131" y="1585"/>
+
+  <polyline fill="none" points="1131 1925, 1141 1935, 1131 1945" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <circle cx="1126" cy="1905" fill="#ffffff" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="45" font-weight="700" text-anchor="start" x="1221" y="1585">R2</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1181" y="2025">REG_EN8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2135" y2="2135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2135">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2165" y2="2165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2165">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2195" y2="2195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2195">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2225" y2="2225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2225">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2255" y2="2255"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2255">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2285" y2="2285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2285">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2315" y2="2315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2315">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2345" y2="2345"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2345">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2135" y2="2135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2135">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2165" y2="2165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2165">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2195" y2="2195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2195">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2225" y2="2225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2225">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2255" y2="2255"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2255">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2285" y2="2285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2285">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2315" y2="2315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2315">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2345" y2="2345"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2345">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1121" x2="1081" y1="2405" y2="2405"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="2405">^EN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2435" y2="2435"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="2435">CLK</text>
+
+  <rect fill="#c0dcc0" fill-opacity="0.5" height="400" stroke="#000000" stroke-width="5" width="250" x="1131" y="2085"/>
+
+  <polyline fill="none" points="1131 2425, 1141 2435, 1131 2445" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <circle cx="1126" cy="2405" fill="#ffffff" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="45" font-weight="700" text-anchor="start" x="1221" y="2085">R3</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1181" y="2525">REG_EN8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2775" y2="2775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2775">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2805" y2="2805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2805">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2835" y2="2835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2835">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2865" y2="2865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2865">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2895" y2="2895"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2895">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2925" y2="2925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2925">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2955" y2="2955"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2955">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="2985" y2="2985"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="2985">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2775" y2="2775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2775">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2805" y2="2805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2805">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2835" y2="2835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2835">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2865" y2="2865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2865">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2895" y2="2895"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2895">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2925" y2="2925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2925">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2955" y2="2955"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2955">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="2985" y2="2985"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="2985">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1121" x2="1081" y1="3045" y2="3045"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="3045">^EN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3075" y2="3075"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="3075">CLK</text>
+
+  <rect fill="#c0dcc0" fill-opacity="0.5" height="400" stroke="#000000" stroke-width="5" width="250" x="1131" y="2725"/>
+
+  <polyline fill="none" points="1131 3065, 1141 3075, 1131 3085" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <circle cx="1126" cy="3045" fill="#ffffff" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="45" font-weight="700" text-anchor="start" x="1231" y="2725">IA</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1181" y="3165">REG_EN8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3395" y2="3395"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="3395">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3425" y2="3425"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="3425">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3455" y2="3455"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="3455">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3485" y2="3485"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="3485">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3515" y2="3515"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="3515">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3545" y2="3545"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="3545">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3575" y2="3575"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="3575">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3605" y2="3605"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="3605">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="3395" y2="3395"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="3395">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="3425" y2="3425"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="3425">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="3455" y2="3455"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="3455">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="3485" y2="3485"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="3485">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="3515" y2="3515"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="3515">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="3545" y2="3545"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="3545">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="3575" y2="3575"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="3575">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="3605" y2="3605"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="3605">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1121" x2="1081" y1="3665" y2="3665"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="3665">^EN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="3695" y2="3695"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="3695">CLK</text>
+
+  <rect fill="#c0dcc0" fill-opacity="0.5" height="400" stroke="#000000" stroke-width="5" width="250" x="1131" y="3345"/>
+
+  <polyline fill="none" points="1131 3685, 1141 3695, 1131 3705" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <circle cx="1126" cy="3665" fill="#ffffff" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="45" font-weight="700" text-anchor="start" x="1201" y="3335">ASR</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1181" y="3785">REG_EN8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4015" y2="4015"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="4015">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4045" y2="4045"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="4045">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4075" y2="4075"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="4075">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4105" y2="4105"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="4105">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4135" y2="4135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="4135">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4165" y2="4165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="4165">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4195" y2="4195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="4195">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4225" y2="4225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1164" y="4225">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="4015" y2="4015"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="4015">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="4045" y2="4045"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="4045">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="4075" y2="4075"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="4075">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="4105" y2="4105"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="4105">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="4135" y2="4135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="4135">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="4165" y2="4165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="4165">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="4195" y2="4195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="4195">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1381" x2="1431" y1="4225" y2="4225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1348" y="4225">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1121" x2="1081" y1="4285" y2="4285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="4285">^EN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1131" x2="1081" y1="4315" y2="4315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1184" y="4315">CLK</text>
+
+  <rect fill="#c0dcc0" fill-opacity="0.5" height="400" stroke="#000000" stroke-width="5" width="250" x="1131" y="3965"/>
+
+  <polyline fill="none" points="1131 4305, 1141 4315, 1131 4325" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <circle cx="1126" cy="4285" fill="#ffffff" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="45" font-weight="700" text-anchor="start" x="1201" y="3955">SP</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1181" y="4405">REG_EN8</text>
+
+  <polyline fill="none" points="1431 4015, 1761 4015" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 4045, 1761 4045" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 4075, 1761 4075" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 4105, 1761 4105" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 4135, 1761 4135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 4165, 1761 4165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 4195, 1761 4195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 4225, 1761 4225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 3395, 1761 3395" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 3425, 1761 3425" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 3455, 1761 3455" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 3485, 1761 3485" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 3515, 1761 3515" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 3545, 1761 3545" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 3575, 1761 3575" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 3605, 1761 3605" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2985, 1761 2985" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2955, 1761 2955" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2925, 1761 2925" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2895, 1761 2895" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2865, 1761 2865" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2835, 1761 2835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2805, 1761 2805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1431 2775, 1761 2775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4225, 3041 4225, 3041 2345, 2011 2345" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4195, 3001 4195, 3001 2315, 2011 2315" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4165, 2961 4165, 2961 2285, 2011 2285" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4135, 2921 4135, 2921 2255, 2011 2255" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4105, 2881 4105, 2881 2225, 2011 2225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4075, 2841 4075, 2841 2195, 2011 2195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4045, 2801 4045, 2801 2165, 2011 2165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4015, 2761 4015, 2761 2135, 2011 2135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 2775, 2761 2775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 2805, 2801 2805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 2835, 2841 2835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 2865, 2881 2865" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 2895, 2921 2895" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 2925, 2961 2925" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 2955, 3001 2955" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 2985, 3041 2985" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 3395, 2761 3395" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 3425, 2801 3425" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 3455, 2841 3455" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 3485, 2881 3485" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 3515, 2921 3515" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 3545, 2961 3545" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 3575, 3001 3575" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 3605, 3041 3605" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="21 3245, 21 3220, 236 3220, 261 3245, 236 3270, 21 3270, 21 3245" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="3245">IA_GATE_EN</text>
+
+  <polygon fill="#ffff80" points="21 4445, 21 4420, 236 4420, 261 4445, 236 4470, 21 4470, 21 4445" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="4445">SP_GATE_EN</text>
+
+  <polygon fill="#ffff80" points="21 3845, 21 3820, 236 3820, 261 3845, 236 3870, 21 3870, 21 3845" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="3845">ASR_GATE_EN</text>
+
+  <polyline fill="none" points="1081 3695, 831 3695" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3075, 831 3075" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="261 3245, 1761 3245, 1761 3045" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="261 3845, 1761 3845, 1761 3665" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="21 3045, 21 3020, 236 3020, 261 3045, 236 3070, 21 3070, 21 3045" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="3045">IA_REG_EN</text>
+
+  <polyline fill="none" points="1081 3045, 261 3045" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3665, 261 3665" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="21 4285, 21 4260, 236 4260, 261 4285, 236 4310, 21 4310, 21 4285" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="4285">SP_REG_EN</text>
+
+  <polygon fill="#ffff80" points="21 3665, 21 3640, 236 3640, 261 3665, 236 3690, 21 3690, 21 3665" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="3665">ASR_REG_EN</text>
+
+  <polyline fill="none" points="1081 4225, 441 4225, 441 2345, 1081 2345" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 4195, 471 4195, 471 2315, 1081 2315" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 4165, 501 4165, 501 2285, 1081 2285" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 4135, 531 4135, 531 2255, 1081 2255" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 4105, 561 4105, 561 2225, 1081 2225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 4075, 591 4075, 591 2195, 1081 2195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 4045, 621 4045, 621 2165, 1081 2165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 4015, 651 4015, 651 2135, 1081 2135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3425, 621 3425" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3395, 651 3395" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 2835, 591 2835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 2805, 621 2805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 2775, 651 2775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 655, 2761 655, 3261 655" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 685, 2801 685, 3261 685" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 715, 2841 715, 3261 715" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 745, 2881 745, 3261 745" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 775, 2921 775, 3261 775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 805, 2961 805, 3261 805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 835, 3001 835, 3261 835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 865, 3041 865, 3261 865" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="3261" x2="3311" y1="655" y2="605"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="3261" x2="3311" y1="685" y2="635"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="3261" x2="3311" y1="715" y2="665"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="3261" x2="3311" y1="745" y2="695"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="3261" x2="3311" y1="775" y2="725"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="3261" x2="3311" y1="805" y2="755"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="3261" x2="3311" y1="835" y2="785"/>
+
+  <line stroke="#000080" stroke-linecap="round" stroke-width="5" x1="3261" x2="3311" y1="865" y2="815"/>
+
+  <polyline fill="none" points="1081 3455, 591 3455" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3485, 561 3485" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3515, 531 3515" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3545, 501 3545" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3575, 471 3575" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 3605, 441 3605" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1761 4285, 1711 4285, 1711 4445, 261 4445" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4765, 1111 4765, 1101 4765, 1101 4635, 1671 4635, 1671 4045" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4745, 1111 4745, 1111 4645, 1681 4645, 1681 4015" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4785, 1091 4785, 1091 4625, 1661 4625, 1661 4075" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4805, 1081 4805, 1081 4615, 1651 4615, 1651 4105" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4825, 1071 4825, 1071 4605, 1641 4605, 1641 4135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4845, 1061 4845, 1061 4595, 1631 4595, 1631 4165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4865, 1051 4865, 1051 4585, 1621 4585, 1621 4195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4885, 1041 4885, 1041 4575, 1611 4575, 1611 4225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1391 4745, 1761 4745" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1391 4765, 1711 4765, 1711 4775, 1761 4775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1391 4785, 1701 4785, 1701 4805, 1761 4805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1391 4805, 1681 4805, 1681 4835, 1761 4835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1391 4825, 1661 4825, 1661 4865, 1761 4865" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1391 4845, 1641 4845, 1641 4895, 1761 4895" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1391 4865, 1621 4865, 1621 4925, 1761 4925" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1391 4885, 1601 4885, 1601 4955, 1761 4955" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 4315, 831 4315" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4745, 2761 4745, 2761 4015" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4775, 2801 4775, 2801 4045" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4805, 2841 4805, 2841 4075" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4835, 2881 4835, 2881 4105" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4865, 2921 4865, 2921 4135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4895, 2961 4895, 2961 4165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4925, 3001 4925, 3001 4195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 4955, 3041 4955, 3041 4225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polygon fill="#ffff80" points="21 5015, 21 4990, 236 4990, 261 5015, 236 5040, 21 5040, 21 5015" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="5015">CSP_U\D</text>
+
+  <polygon fill="#ffff80" points="21 4945, 21 4920, 236 4920, 261 4945, 236 4970, 21 4970, 21 4945" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="4945">CSP_LOAD</text>
+
+  <polygon fill="#ffff80" points="21 5165, 21 5140, 236 5140, 261 5165, 236 5190, 21 5190, 21 5165" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="5165">CSP_GATE_EN</text>
+
+  <polyline fill="none" points="1761 5015, 1671 5015, 1671 5165, 271 5165, 261 5165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 2435, 831 2435, 831 3185, 831 3825, 831 4505, 831 5315, 271 5315, 171 5315" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 5035, 831 5035" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="4745" y2="4745"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1224" y="4745">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="4765" y2="4765"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1224" y="4765">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="4785" y2="4785"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1224" y="4785">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="4805" y2="4805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1224" y="4805">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="4825" y2="4825"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1224" y="4825">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="4845" y2="4845"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1224" y="4845">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="4865" y2="4865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1224" y="4865">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="4885" y2="4885"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1224" y="4885">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4745" y2="4745"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1308" y="4745">Q0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4765" y2="4765"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1308" y="4765">Q1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4785" y2="4785"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1308" y="4785">Q2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4805" y2="4805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1308" y="4805">Q3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4825" y2="4825"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1308" y="4825">Q4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4845" y2="4845"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1308" y="4845">Q5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4865" y2="4865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1308" y="4865">Q6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4885" y2="4885"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1308" y="4885">Q7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1181" x2="1141" y1="4975" y2="4975"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1264" y="4975">^CTEN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1181" x2="1141" y1="4995" y2="4995"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1264" y="4995">^LOAD</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1181" x2="1141" y1="5015" y2="5015"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1254" y="5015">^U\D</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1351" x2="1391" y1="4925" y2="4925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1278" y="4925">^RCO</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1341" x2="1391" y1="4945" y2="4945"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1238" y="4945">MAX\MIN</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1191" x2="1141" y1="5035" y2="5035"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1244" y="5035">CLK</text>
+
+  <rect fill="#c0dcc0" fill-opacity="0.5" height="360" stroke="#000000" stroke-width="5" width="150" x="1191" y="4725"/>
+
+  <circle cx="1346" cy="4925" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1186" cy="4975" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1186" cy="4995" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <circle cx="1186" cy="5015" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="45" font-weight="700" text-anchor="start" x="1191" y="4725">CSP</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1231" y="5125">HC8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="941" x2="941" y1="2955" y2="3005"/>
+
+  <polygon fill="#ffffff" fill-opacity="0.5" points="941 2955, 991 2905, 891 2905, 941 2955" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Times New Roman" font-size="30" font-weight="700" text-anchor="start" x="931" y="2945">1</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="931" y="2875">U1</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="851" y="2905">CONSTANT1</text>
+
+  <polyline fill="none" points="1081 2865, 1081 2995, 1081 3005, 941 3005" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000080" font-family="宋体" font-size="40" font-weight="400" text-anchor="start" x="901" y="2645">中断向量偏移地址为0xF8，共有8个中断向量</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="250" font-weight="700" text-anchor="start" x="1941" y="315">寄存器模块REG</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="655" y2="655"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="655">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="685" y2="685"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="685">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="715" y2="715"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="715">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="745" y2="745"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="745">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="775" y2="775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="775">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="805" y2="805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="805">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="835" y2="835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="835">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="865" y2="865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="865">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="655" y2="655"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="655">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="685" y2="685"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="685">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="715" y2="715"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="715">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="745" y2="745"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="745">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="775" y2="775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="775">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="805" y2="805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="805">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="835" y2="835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="835">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="865" y2="865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="865">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1801" x2="1761" y1="925" y2="925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1855" y="924">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1811" y="615"/>
+
+  <circle cx="1806" cy="925" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1831" y="605">R0_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1811" y="1015">BUS_TRANS8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1135" y2="1135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1135">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1165" y2="1165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1165">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1195" y2="1195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1195">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1225" y2="1225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1225">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1255" y2="1255"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1255">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1285" y2="1285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1285">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1315" y2="1315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1315">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1345" y2="1345"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1345">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1135" y2="1135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1135">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1165" y2="1165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1165">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1195" y2="1195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1195">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1225" y2="1225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1225">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1255" y2="1255"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1255">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1285" y2="1285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1285">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1315" y2="1315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1315">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1345" y2="1345"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1345">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1801" x2="1761" y1="1405" y2="1405"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1855" y="1404">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1811" y="1095"/>
+
+  <circle cx="1806" cy="1405" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1831" y="1085">R1_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1811" y="1495">BUS_TRANS8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1635" y2="1635"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1635">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1665" y2="1665"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1665">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1695" y2="1695"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1695">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1725" y2="1725"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1725">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1755" y2="1755"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1755">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1785" y2="1785"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1785">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1815" y2="1815"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1815">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="1845" y2="1845"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="1845">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1635" y2="1635"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1635">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1665" y2="1665"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1665">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1695" y2="1695"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1695">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1725" y2="1725"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1725">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1755" y2="1755"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1755">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1785" y2="1785"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1785">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1815" y2="1815"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1815">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="1845" y2="1845"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="1845">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1801" x2="1761" y1="1905" y2="1905"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1855" y="1904">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1811" y="1595"/>
+
+  <circle cx="1806" cy="1905" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1831" y="1585">R2_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1811" y="1995">BUS_TRANS8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2135" y2="2135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2135">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2165" y2="2165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2165">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2195" y2="2195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2195">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2225" y2="2225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2225">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2255" y2="2255"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2255">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2285" y2="2285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2285">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2315" y2="2315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2315">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2345" y2="2345"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2345">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2135" y2="2135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2135">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2165" y2="2165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2165">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2195" y2="2195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2195">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2225" y2="2225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2225">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2255" y2="2255"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2255">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2285" y2="2285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2285">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2315" y2="2315"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2315">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2345" y2="2345"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2345">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1801" x2="1761" y1="2405" y2="2405"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1855" y="2404">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1811" y="2095"/>
+
+  <circle cx="1806" cy="2405" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1831" y="2085">R3_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1811" y="2495">BUS_TRANS8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2775" y2="2775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2775">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2805" y2="2805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2805">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2835" y2="2835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2835">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2865" y2="2865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2865">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2895" y2="2895"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2895">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2925" y2="2925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2925">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2955" y2="2955"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2955">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="2985" y2="2985"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="2985">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2775" y2="2775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2775">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2805" y2="2805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2805">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2835" y2="2835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2835">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2865" y2="2865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2865">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2895" y2="2895"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2895">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2925" y2="2925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2925">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2955" y2="2955"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2955">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="2985" y2="2985"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="2985">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1801" x2="1761" y1="3045" y2="3045"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1855" y="3044">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1811" y="2735"/>
+
+  <circle cx="1806" cy="3045" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1831" y="2725">IA_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1811" y="3135">BUS_TRANS8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="3395" y2="3395"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="3395">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="3425" y2="3425"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="3425">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="3455" y2="3455"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="3455">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="3485" y2="3485"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="3485">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="3515" y2="3515"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="3515">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="3545" y2="3545"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="3545">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="3575" y2="3575"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="3575">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="3605" y2="3605"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="3605">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="3395" y2="3395"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="3395">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="3425" y2="3425"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="3425">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="3455" y2="3455"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="3455">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="3485" y2="3485"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="3485">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="3515" y2="3515"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="3515">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="3545" y2="3545"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="3545">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="3575" y2="3575"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="3575">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="3605" y2="3605"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="3605">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1801" x2="1761" y1="3665" y2="3665"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1855" y="3664">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1811" y="3355"/>
+
+  <circle cx="1806" cy="3665" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1821" y="3345">ASR_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1811" y="3755">BUS_TRANS8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4015" y2="4015"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4015">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4045" y2="4045"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4045">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4075" y2="4075"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4075">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4105" y2="4105"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4105">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4135" y2="4135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4135">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4165" y2="4165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4165">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4195" y2="4195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4195">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4225" y2="4225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4225">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4015" y2="4015"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4015">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4045" y2="4045"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4045">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4075" y2="4075"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4075">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4105" y2="4105"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4105">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4135" y2="4135"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4135">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4165" y2="4165"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4165">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4195" y2="4195"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4195">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4225" y2="4225"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4225">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1801" x2="1761" y1="4285" y2="4285"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1855" y="4284">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1811" y="3975"/>
+
+  <circle cx="1806" cy="4285" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1841" y="3965">SP_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1811" y="4375">BUS_TRANS8</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4745" y2="4745"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4745">A0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4775" y2="4775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4775">A1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4805" y2="4805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4805">A2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4835" y2="4835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4835">A3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4865" y2="4865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4865">A4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4895" y2="4895"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4895">A5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4925" y2="4925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4925">A6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1811" x2="1761" y1="4955" y2="4955"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1844" y="4955">A7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4745" y2="4745"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4745">D0</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4775" y2="4775"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4775">D1</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4805" y2="4805"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4805">D2</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4835" y2="4835"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4835">D3</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4865" y2="4865"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4865">D4</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4895" y2="4895"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4895">D5</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4925" y2="4925"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4925">D6</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1961" x2="2011" y1="4955" y2="4955"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="start" x="1928" y="4955">D7</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1801" x2="1761" y1="5015" y2="5015"/>
+
+  <text alignment-baseline="central" fill="#000000" font-family="Courier New" font-size="17" font-weight="400" text-anchor="end" x="1855" y="5014">^EN</text>
+
+  <rect fill="#a0c0ff" fill-opacity="0.5" height="350" stroke="#000000" stroke-width="5" width="150" x="1811" y="4705"/>
+
+  <circle cx="1806" cy="5015" fill="none" r="5" stroke="#000000" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1821" y="4695">CSP_gate</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1811" y="5105">BUS_TRANS8</text>
+
+  <polyline fill="none" points="3421 545, 3311 545, 3311 815" stroke="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+
+  <polygon fill="#ffff80" points="3421 545, 3421 520, 3576 520, 3601 545, 3576 570, 3421 570, 3421 545" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="3421" y="545">DBUS[7..0]</text>
+
+  <polyline fill="none" points="311 815, 311 595, 171 595" stroke="#000080" stroke-linecap="round" stroke-linejoin="round" stroke-width="20"/>
+
+  <polygon fill="#ffff80" points="21 595, 21 570, 146 570, 171 595, 146 620, 21 620, 21 595" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="21" y="595">DBUS[7..0]</text>
+
+  <polyline fill="none" points="1081 4285, 261 4285" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 5015, 271 5015, 261 5015" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1141 4995, 371 4995, 371 4945, 261 4945" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 655, 361 655" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 685, 361 685" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 715, 361 715" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 745, 361 745" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 775, 361 775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 805, 361 805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 835, 361 835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 865, 361 865" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="651 2135, 651 655" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="621 2165, 621 685" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="591 2195, 591 715" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="561 2225, 561 745" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="531 2255, 531 775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="501 2285, 501 805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="471 2315, 471 835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="441 2345, 441 865" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1635, 651 1635" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1665, 621 1665" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1695, 591 1695" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1725, 561 1725" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1755, 531 1755" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1785, 501 1785" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1815, 471 1815" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1845, 441 1845" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1135, 651 1135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1165, 621 1165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1195, 591 1195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1225, 561 1225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1255, 531 1255" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1285, 501 1285" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1315, 471 1315" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1081 1345, 441 1345" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2761 2135, 2761 655" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2801 2165, 2801 685" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2841 2195, 2841 715" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2881 2225, 2881 745" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2921 2255, 2921 775" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2961 2285, 2961 805" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3001 2315, 3001 835" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="3041 2345, 3041 865" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1135, 2761 1135" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1165, 2801 1165" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1195, 2841 1195" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1225, 2881 1225" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1255, 2921 1255" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1285, 2961 1285" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1315, 3001 1315" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1345, 3041 1345" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1635, 2761 1635" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1665, 2801 1665" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1695, 2841 1695" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1725, 2881 1725" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1755, 2921 1755" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1785, 2961 1785" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1815, 3001 1815" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="2011 1845, 3041 1845" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <circle cx="3041" cy="4225" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3001" cy="4195" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2961" cy="4165" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2921" cy="4135" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2881" cy="4105" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2841" cy="4075" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2801" cy="4045" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2761" cy="4015" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="761" cy="235" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="841" cy="135" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1611" cy="4225" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1621" cy="4195" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1631" cy="4165" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1641" cy="4135" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1651" cy="4105" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1661" cy="4075" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1681" cy="4015" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1671" cy="4045" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="441" cy="3605" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="471" cy="3575" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="501" cy="3545" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="531" cy="3515" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="561" cy="3485" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="591" cy="3455" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="651" cy="2775" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="621" cy="2805" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="591" cy="2835" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="651" cy="3395" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="621" cy="3425" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3041" cy="3605" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3001" cy="3575" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2961" cy="3545" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2921" cy="3515" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2881" cy="3485" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2841" cy="3455" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2801" cy="3425" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2761" cy="3395" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3041" cy="2985" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3001" cy="2955" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2961" cy="2925" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2921" cy="2895" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2881" cy="2865" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2841" cy="2835" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2801" cy="2805" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2761" cy="2775" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="831" cy="1435" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="831" cy="1935" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="831" cy="2435" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="831" cy="4315" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="831" cy="3075" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="831" cy="3695" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="831" cy="5035" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1081" cy="2895" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1081" cy="2925" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1081" cy="2955" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="1081" cy="2985" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="651" cy="2135" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="651" cy="655" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="621" cy="2165" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="621" cy="685" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="591" cy="2195" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="591" cy="715" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="561" cy="2225" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="561" cy="745" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="531" cy="2255" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="531" cy="775" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="501" cy="2285" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="501" cy="805" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="471" cy="2315" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="471" cy="835" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="441" cy="2345" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="441" cy="865" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="651" cy="1635" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="621" cy="1665" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="591" cy="1695" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="561" cy="1725" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="531" cy="1755" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="501" cy="1785" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="471" cy="1815" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="441" cy="1845" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="651" cy="1135" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="621" cy="1165" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="591" cy="1195" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="561" cy="1225" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="531" cy="1255" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="501" cy="1285" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="471" cy="1315" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="441" cy="1345" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2761" cy="2135" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2761" cy="655" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2801" cy="2165" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2801" cy="685" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2841" cy="2195" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2841" cy="715" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2881" cy="2225" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2881" cy="745" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2921" cy="2255" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2921" cy="775" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2961" cy="2285" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2961" cy="805" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3001" cy="2315" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3001" cy="835" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3041" cy="2345" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3041" cy="865" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2761" cy="1135" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2801" cy="1165" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2841" cy="1195" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2881" cy="1225" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2921" cy="1255" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2961" cy="1285" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3001" cy="1315" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3041" cy="1345" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2761" cy="1635" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2801" cy="1665" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2841" cy="1695" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2881" cy="1725" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2921" cy="1755" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="2961" cy="1785" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3001" cy="1815" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="3041" cy="1845" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+</svg>

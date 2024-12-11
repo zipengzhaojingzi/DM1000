@@ -1,0 +1,510 @@
+0001                        
+0002                        
+0003                        ; 所有指令的第一条微指令地址必须是8的倍数
+0004                        ; 取指微指令，所有指令的第一步均为取指操作，都要执行该条微指令
+0005    00    EF 3F F9 FF   path [pc], ir
+0006                        
+0007                        ; 填充空白指令 01-1f
+0008    04    FF FF FF FF   dup 31, null
+0009                        
+0010                        ; add a, rx
+0011    80    EF FF FA 7F   path rx, w					;将寄存器 R 的内容传送到工作寄存器 W 中，R 的内容不变
+0012    84    EF FF E4 99   path alu_add, a				;累加器 A 与工作寄存器 W 进行无进位加运算，结果写回 A 中，即A=A+W 
+0013    88    FF FF FF FF   inc pc						;PC 加1，指向下一个字节单元
+0014    8C    CF FF FF FF   reset upc					;uPC 寄存器复位为0，指向第一条微指令，该微指令完成取指令功能
+0015                        
+0016    90    FF FF FF FF   dup 4, null
+0017                        
+0018                        ; add a, [rx]
+0019    A0    EF F7 FA FF   path rx, mar				;将寄存器 R 的内容传送到地址寄存器 MAR，R 的内容不变
+0020    A4    EF FB F9 7F   path [mar], w				;读出地址寄存器 MAR 指定存储单元的内容并写入工作寄存器 W 中
+0021    A8    EF FF E4 99   path alu_add, a				
+0022    AC    FF FF FF FF   inc pc
+0023                        
+0024    B0    CF FF FF FF   reset upc
+0025                        
+0026    B4    FF FF FF FF   dup 3, null
+0027                        
+0028                        ; add a, symbol
+0029    C0    FF FF FF FF   inc pc
+0030    C4    EF 77 F9 FF   path [pc], mar				;读出 PC 指定存储单元的内容并写入地址寄存器 MAR
+0031    C8    EF FB F9 7F   path [mar], w				
+0032    CC    EF FF E4 99   path alu_add, a
+0033    D0    FF FF FF FF   inc pc
+0034    D4    CF FF FF FF   reset upc
+0035                        
+0036    D8    FF FF FF FF   dup 2, null
+0037                        
+0038                        ; add a, immediate
+0039    E0    FF FF FF FF   inc pc
+0040    E4    EF 7F F9 7F   path [pc], w				;读出 PC 指定存储单元的内容并写入工作寄存器 W
+0041    E8    EF FF E4 99   path alu_add, a
+0042    EC    FF FF FF FF   inc pc
+0043    F0    CF FF FF FF   reset upc
+0044                        
+0045    F4    FF FF FF FF   dup 3, null
+0046                        
+0047                        ; adc a, rx
+0048    100    EF FF FA 7F   path rx, w
+0049    104    EF FF E4 89   path alu_adc, a				;累加器 A 与工作寄存器 W 进行带进位的加法运算，结果写回 A 中，即A=A+W+1 
+0050    108    FF FF FF FF   inc pc
+0051    10C    CF FF FF FF   reset upc
+0052                        
+0053    110    FF FF FF FF   dup 4, null
+0054                        
+0055                        ; adc a, [rx]
+0056    120    EF F7 FA FF   path rx, mar
+0057    124    EF FB F9 7F   path [mar], w
+0058    128    EF FF E4 89   path alu_adc, a
+0059    12C    FF FF FF FF   inc pc
+0060    130    CF FF FF FF   reset upc
+0061                        
+0062    134    FF FF FF FF   dup 3, null
+0063                        
+0064                        ; adc a, symbol
+0065    140    FF FF FF FF   inc pc
+0066    144    EF 77 F9 FF   path [pc], mar
+0067    148    EF FB F9 7F   path [mar], w
+0068    14C    EF FF E4 89   path alu_adc, a
+0069    150    FF FF FF FF   inc pc
+0070    154    CF FF FF FF   reset upc
+0071                        
+0072    158    FF FF FF FF   dup 2, null
+0073                        
+0074                        ; adc a, immediate
+0075    160    FF FF FF FF   inc pc
+0076    164    EF 7F F9 7F   path [pc], w
+0077    168    EF FF E4 89   path alu_adc, a
+0078    16C    FF FF FF FF   inc pc
+0079    170    CF FF FF FF   reset upc
+0080                        
+0081    174    FF FF FF FF   dup 3, null
+0082                        
+0083                        ; sub a, rx
+0084    180    EF FF FA 7F   path rx, w
+0085    184    EF FF E4 86   path alu_sub, a				;累加器 A 减 W 进行减法运算，结果写回 A 中，即A=A-W 
+0086    188    FF FF FF FF   inc pc
+0087    18C    CF FF FF FF   reset upc
+0088                        
+0089    190    FF FF FF FF   dup 4, null
+0090                        
+0091                        ; sub a, [rx]
+0092    1A0    EF F7 FA FF   path rx, mar
+0093    1A4    EF FB F9 7F   path [mar], w
+0094    1A8    EF FF E4 86   path alu_sub, a
+0095    1AC    FF FF FF FF   inc pc
+0096    1B0    CF FF FF FF   reset upc
+0097                        
+0098    1B4    FF FF FF FF   dup 3, null
+0099                        
+0100                        ; sub a, symbol
+0101    1C0    FF FF FF FF   inc pc
+0102    1C4    EF 77 F9 FF   path [pc], mar
+0103    1C8    EF FB F9 7F   path [mar], w
+0104    1CC    EF FF E4 86   path alu_sub, a
+0105    1D0    FF FF FF FF   inc pc
+0106    1D4    CF FF FF FF   reset upc
+0107                        
+0108    1D8    FF FF FF FF   dup 2, null
+0109                        
+0110                        ; sub a, immediate
+0111    1E0    FF FF FF FF   inc pc
+0112    1E4    EF 7F F9 7F   path [pc], w
+0113    1E8    EF FF E4 86   path alu_sub, a
+0114    1EC    FF FF FF FF   inc pc
+0115    1F0    CF FF FF FF   reset upc
+0116                        
+0117    1F4    FF FF FF FF   dup 3, null
+0118                        
+0119                        ; sbb a, rx
+0120    200    EF FF FA 7F   path rx, w
+0121    204    EF FF E4 96   path alu_sbb, a				;累加器 A 与工作寄存器 W 进行带进位的减法运算，结果写回 A 中，即A=A-W-1 
+0122    208    FF FF FF FF   inc pc
+0123    20C    CF FF FF FF   reset upc
+0124                        
+0125    210    FF FF FF FF   dup 4, null
+0126                        
+0127                        ; sbb a, [rx]
+0128    220    EF F7 FA FF   path rx, mar
+0129    224    EF FB F9 7F   path [mar], w
+0130    228    EF FF E4 96   path alu_sbb, a
+0131    22C    FF FF FF FF   inc pc
+0132    230    CF FF FF FF   reset upc
+0133                        
+0134    234    FF FF FF FF   dup 3, null
+0135                        
+0136                        ; sbb a, symbol
+0137    240    FF FF FF FF   inc pc
+0138    244    EF 77 F9 FF   path [pc], mar
+0139    248    EF FB F9 7F   path [mar], w
+0140    24C    EF FF E4 96   path alu_sbb, a
+0141    250    FF FF FF FF   inc pc
+0142    254    CF FF FF FF   reset upc
+0143                        
+0144    258    FF FF FF FF   dup 2, null
+0145                        
+0146                        ; sbb a, immediate
+0147    260    FF FF FF FF   inc pc
+0148    264    EF 7F F9 7F   path [pc], w
+0149    268    EF FF E4 96   path alu_sbb, a
+0150    26C    FF FF FF FF   inc pc
+0151    270    CF FF FF FF   reset upc
+0152                        
+0153    274    FF FF FF FF   dup 3, null
+0154                        
+0155                        ; and a, rx
+0156    280    EF FF FA 7F   path rx, w
+0157    284    EF FF E4 BB   path alu_and a				;A = A & W，A与W进行按位与运算
+0158    288    FF FF FF FF   inc pc
+0159    28C    CF FF FF FF   reset upc
+0160                        
+0161    290    FF FF FF FF   dup 4, null
+0162                        
+0163                        ; and a, [rx]
+0164    2A0    EF F7 FA FF   path rx, mar
+0165    2A4    EF FB F9 7F   path [mar], w
+0166    2A8    EF FF E4 BB   path alu_and, a
+0167    2AC    FF FF FF FF   inc pc
+0168    2B0    CF FF FF FF   reset upc
+0169                        
+0170    2B4    FF FF FF FF   dup 3, null
+0171                        
+0172                        ; and a, symbol
+0173    2C0    FF FF FF FF   inc pc
+0174    2C4    EF 77 F9 FF   path [pc], mar
+0175    2C8    EF FB F9 7F   path [mar], w
+0176    2CC    EF FF E4 BB   path alu_and, a
+0177    2D0    FF FF FF FF   inc pc
+0178    2D4    CF FF FF FF   reset upc
+0179                        
+0180    2D8    FF FF FF FF   dup 2, null
+0181                        
+0182                        ; and a, immediate
+0183    2E0    FF FF FF FF   inc pc
+0184    2E4    EF 7F F9 7F   path [pc], w
+0185    2E8    EF FF E4 BB   path alu_and, a
+0186    2EC    FF FF FF FF   inc pc
+0187    2F0    CF FF FF FF   reset upc
+0188                        
+0189    2F4    FF FF FF FF   dup 3, null
+0190                        
+0191                        ; or a, rx
+0192    300    EF FF FA 7F   path rx, w
+0193    304    EF FF E4 BE   path alu_or a				;A = A | W，A与W进行按位或运算
+0194    308    FF FF FF FF   inc pc
+0195    30C    CF FF FF FF   reset upc
+0196                        
+0197    310    FF FF FF FF   dup 4, null
+0198                        
+0199                        ; or a, [rx]
+0200    320    EF F7 FA FF   path rx, mar
+0201    324    EF FB F9 7F   path [mar], w
+0202    328    EF FF E4 BE   path alu_or, a
+0203    32C    FF FF FF FF   inc pc
+0204    330    CF FF FF FF   reset upc
+0205                        
+0206    334    FF FF FF FF   dup 3, null
+0207                        
+0208                        ; or a, symbol
+0209    340    FF FF FF FF   inc pc
+0210    344    EF 77 F9 FF   path [pc], mar
+0211    348    EF FB F9 7F   path [mar], w
+0212    34C    EF FF E4 BE   path alu_or, a
+0213    350    FF FF FF FF   inc pc
+0214    354    CF FF FF FF   reset upc
+0215                        
+0216    358    FF FF FF FF   dup 2, null
+0217                        
+0218                        ; or a, immediate
+0219    360    FF FF FF FF   inc pc
+0220    364    EF 7F F9 7F   path [pc], w
+0221    368    EF FF E4 BE   path alu_or, a
+0222    36C    FF FF FF FF   inc pc
+0223    370    CF FF FF FF   reset upc
+0224                        
+0225    374    FF FF FF FF   dup 3, null
+0226                        
+0227                        ; mov a, rx
+0228    380    EF FF FA BF   path rx, a				;将寄存器 R 的内容传送到累加器 A 中
+0229    384    FF FF FF FF   inc pc
+0230    388    CF FF FF FF   reset upc
+0231                        
+0232    38C    FF FF FF FF   dup 5, null
+0233                        
+0234                        ; mov a, [rx]
+0235    3A0    EF F7 FA FF   path rx, mar			;将寄存器 R 的内容传送到地址寄存器 MAR 中
+0236    3A4    EF FB F9 BF   path [mar], a			;将地址寄存器MAR指定存储单元的内容传送到累加器 A 中
+0237    3A8    FF FF FF FF   inc pc
+0238    3AC    CF FF FF FF   reset upc
+0239                        
+0240    3B0    FF FF FF FF   dup 4, null
+0241                        
+0242                        ; mov a, symbol
+0243    3C0    FF FF FF FF   inc pc
+0244    3C4    EF 77 F9 FF   path [pc], mar			;将程序计数器 PC 指定存储单元的内容传送到 MAR 中
+0245    3C8    EF FB F9 BF   path [mar], a
+0246    3CC    FF FF FF FF   inc pc
+0247    3D0    CF FF FF FF   reset upc
+0248                        
+0249    3D4    FF FF FF FF   dup 3, null
+0250                        
+0251                        ; mov a, immediate
+0252    3E0    FF FF FF FF   inc pc
+0253    3E4    EF 7F F9 BF   path [pc], a			;将程序计数器 PC 指定存储单元的内容传送到 A 中
+0254    3E8    FF FF FF FF   inc pc
+0255    3EC    CF FF FF FF   reset upc
+0256                        
+0257    3F0    FF FF FF FF   dup 4, null
+0258                        
+0259                        ; mov rx, a
+0260    400    EF FF B4 D0   path a, rx				;将累加器 A 的内容传送到寄存器 R 中
+0261    404    FF FF FF FF   inc pc
+0262    408    CF FF FF FF   reset upc
+0263                        
+0264    40C    FF FF FF FF   dup 5, null
+0265                        
+0266                        ; mov [rx], a
+0267    420    EF F7 FA FF   path rx, mar			;将寄存器 R 的内容传送到地址寄存器 MAR 中
+0268    424    ED FB F4 D0   path a, [mar]			;将累加器 A 的内容写入地址寄存器 MAR 指定存储单元中
+0269    428    FF FF FF FF   inc pc
+0270    42C    CF FF FF FF   reset upc
+0271                        
+0272    430    FF FF FF FF   dup 4, null
+0273                        
+0274                        ; mov symbol, a
+0275    440    FF FF FF FF   inc pc
+0276    444    EF 77 F9 FF   path [pc], mar			;将 PC 指定存储单元的内容传送到地址寄存器 MAR 中
+0277    448    ED FB F4 D0   path a, [mar]
+0278    44C    FF FF FF FF   inc pc
+0279    450    CF FF FF FF   reset upc
+0280                        
+0281    454    FF FF FF FF   dup 3, null
+0282                        
+0283                        ; mov rx, immediate
+0284    460    FF FF FF FF   inc pc
+0285    464    EF 7F B9 FF   path [pc], rx			;将　PC 指定存储单元的内容传送到寄存器 R 中
+0286    468    FF FF FF FF   inc pc
+0287    46C    CF FF FF FF   reset upc
+0288                        
+0289    470    FF FF FF FF   dup 4, null
+0290                        
+0291                        ; 填充空白指令
+0292                        ;dup 8, null have gone 
+0293                        ;rcrnum a ,n
+0294    480    FF FF FF FF   inc pc
+0295    484    EF 7F F9 7F   path [pc], w
+0296    488    EF FF E5 90   path alu_rcr_num, a
+0297    48C    FF FF FF FF   inc pc
+0298    490    CF FF FF FF   reset upc
+0299                        
+0300    494    FF FF FF FF   dup 3 null
+0301                        
+0302                        ; 填充空白指令
+0303                        ;dup 8, null have gone 
+0304                        ;rclnum a ,n
+0305    4A0    FF FF FF FF   inc pc
+0306    4A4    EF 7F F9 7F   path [pc], w
+0307    4A8    EF FF E6 90   path alu_rcl_num, a
+0308    4AC    FF FF FF FF   inc pc
+0309    4B0    CF FF FF FF   reset upc
+0310                        
+0311    4B4    FF FF FF FF   dup 3 null
+0312                        
+0313                        ; lea a, symbol
+0314    4C0    FF FF FF FF   inc pc
+0315    4C4    EF 7F F9 BF   path [pc], a
+0316    4C8    FF FF FF FF   inc pc
+0317    4CC    CF FF FF FF   reset upc
+0318                        
+0319    4D0    FF FF FF FF   dup 4, null
+0320                        
+0321                        ;mov sp, immediate
+0322    4E0    FF FF FF FF   inc pc
+0323    4E4    EF 7E F9 FF   path [pc], sp 			;将 PC 指定存储单元的内容传送到栈指针寄存器 SP 中
+0324    4E8    FF FF FF FF   inc pc
+0325    4EC    CF FF FF FF   reset upc
+0326                        
+0327    4F0    FF FF FF FF   dup 4, null
+0328                        
+0329                        ; jc symbol
+0330    500    FF FF FF FF   inc pc
+0331    504    FF 6F F9 FF   path [pc], pc			;将 PC 指定存储单元的内容作为指令地址加载到 PC 中，实现程序跳转
+0332    508    CF FF FF FF   reset upc
+0333                        
+0334    50C    FF FF FF FF   dup 5, null
+0335                        
+0336                        ; jz symbol
+0337    520    FF FF FF FF   inc pc
+0338    524    FF 6F F9 FF   path [pc], pc
+0339    528    CF FF FF FF   reset upc
+0340                        
+0341    52C    FF FF FF FF   dup 5, null
+0342                        
+0343                        ; 填充空白指令
+0344                        ;dup 8, null have gone 
+0345                        ;shrnum a ,n
+0346    540    FF FF FF FF   inc pc
+0347    544    EF 7F F9 7F   path [pc], w
+0348    548    2F FF D5 90   path alu_shr_num, a
+0349    54C    FF FF FF FF   inc pc
+0350    550    CF FF FF FF   reset upc
+0351                        
+0352    554    FF FF FF FF   dup 3 null
+0353                        
+0354                        ; jmp symbol
+0355    560    FF FF FF FF   inc pc
+0356    564    FF 6F F9 FF   path [pc], pc
+0357    568    CF FF FF FF   reset upc
+0358                        
+0359    56C    FF FF FF FF   dup 5, null
+0360                        
+0361                        ; in
+0362    580    EF FF F0 BF   path rin, a				;将输入寄存器 RIN 的内容传送到累加器 A 中
+0363    584    FF FF FF FF   inc pc
+0364    588    CF FF FF FF   reset upc
+0365                        
+0366    58C    FF FF FF FF   dup 5, null
+0367                        
+0368                        ; out
+0369    5A0    EE FF F4 D0   path a, rout			;将累加器 A 中的内容传送到输出寄存器 ROUT 中
+0370    5A4    FF FF FF FF   inc pc
+0371    5A8    CF FF FF FF   reset upc
+0372                        
+0373    5AC    FF FF FF FF   dup 5, null
+0374                        
+0375                        ;=======================================================================
+0376                        ;软中断，通过执行软中断指令，调用指定的中断服务程序
+0377                        ;软中断指令是双字节指令，第二个字节是立即数操作数，指调用中断的标号
+0378                        ; int immediate
+0379    5C0    FF FF FF FF   inc pc				;PC+1，指向指令中的立即数操作数，即中断号，准备读出
+0380    5C4    EB 7F F9 FF   path [pc], ia		;将读出的中断号写入寄存器 IA 中，将来自于立即数的低3位中断号与IA寄存器的高5位中断向量起始地址组合，得到调用中断的中断向量
+0381    5C8    EF FF 72 FF   path sp, csp		;栈指针寄存器的值传送到计数器CSP中
+0382    5CC    EF FF FF FF   path sp_dec, csp	;CSP计数器减1
+0383    5D0    EF FE F8 FF   path csp, sp		;将CSP减1后的结果写入SP中，完成SP-1，入栈，更新栈顶
+0384    5D4    EF F7 F2 FF   path sp, mar		;将SP指针暂存到MAR
+0385    5D8    FF FF FF FF   inc pc				;PC+1,中断返回地址，指向下一条指令
+0386    5DC    ED FB F3 FF   path pc, [mar]		;将PC值写入MAR指定存储单元，在这里实现的功能是将中断返回地址（PC）写入栈指针（SP）指定的存储单元中
+0387    5E0    EF F7 F1 FF   path ia, mar		;将寄存器IA 的内容作为地址写入 MAR，在这里实现的功能是将调用中断的中断向量写入地址寄存器MAR中，准备读出中断向量指定单元的中断服务程序入口地址
+0388    5E4    EF EB F9 FF   path [mar], pc		;将地址寄存器MAR指定单元的内容加载到PC中，在这里实现的功能是将调用中断的服务程序首地址加载到PC，使处理器转去执行中断服务程序
+0389    5E8    CF FF FF FF   reset upc
+0390    5EC    FF FF FF FF   dup 5, null
+0391                        
+0392                        ;=======================================================================
+0393                        ;
+0394    600    FF FF FF FF   dup 16, null
+0395                        
+0396                        ;=======================================================================
+0397                        ;子程序调用返回指令
+0398                        ; ret
+0399                        
+0400                        ; 返回地址出栈
+0401    640    EF F7 F2 FF   path sp, mar			;将栈指针（栈顶地址）传送到 MAR
+0402    644    EF EB F9 FF   path [mar], pc			;将返回地址加载到PC
+0403                        
+0404                        ; 出栈时，栈顶向高地址方向生长，sp+1指向新的栈顶
+0405    648    EF FF 72 FF   path sp, csp			
+0406    64C    E7 FF FF FF   path sp_inc, csp		
+0407    650    EF FE F8 FF   path csp, sp			;SP = SP + 1，出栈，更新栈顶
+0408    654    CF FF FF FF   reset upc
+0409                        
+0410    658    FF FF FF FF   dup 2, null
+0411                        
+0412                        ;=======================================================================
+0413                        
+0414                        ; 填充空白指令
+0415                        ;dup 8, null have gone 
+0416                        ;shlnum a ,n
+0417    660    FF FF FF FF   inc pc
+0418    664    EF 7F F9 7F   path [pc], w
+0419    668    2F FF D6 90   path alu_shl_num, a
+0420    66C    FF FF FF FF   inc pc
+0421    670    CF FF FF FF   reset upc
+0422                        
+0423    674    FF FF FF FF   dup 3 null
+0424                        
+0425                        
+0426                        ; shr a
+0427    680    EF FF D5 90   path alu_shr, a			;累加器A 进行逻辑右移，结果写回A中
+0428    684    FF FF FF FF   inc pc
+0429    688    CF FF FF FF   reset upc
+0430                        
+0431    68C    FF FF FF FF   dup 5, null
+0432                        
+0433                        ; shl a
+0434    6A0    EF FF D6 90   path alu_shl, a			;累加器A 进行逻辑左移，结果写回A中
+0435    6A4    FF FF FF FF   inc pc
+0436    6A8    CF FF FF FF   reset upc
+0437                        
+0438    6AC    FF FF FF FF   dup 5, null
+0439                        
+0440                        
+0441                        ; rcr a
+0442    6C0    EF FF E5 90   path alu_rcr, a			;累加器A 进行循环右移，结果写回A中
+0443    6C4    FF FF FF FF   inc pc
+0444    6C8    CF FF FF FF   reset upc
+0445                        
+0446    6CC    FF FF FF FF   dup 5, null
+0447                        
+0448                        ; rcl a
+0449    6E0    EF FF E6 90   path alu_rcl, a			;累加器A 进行循环左移，结果写回A中
+0450    6E4    FF FF FF FF   inc pc
+0451    6E8    CF FF FF FF   reset upc
+0452    6EC    FF FF FF FF   dup 5, null
+0453                        
+0454                        ; nop
+0455    700    FF FF FF FF   inc pc
+0456    704    CF FF FF FF   reset upc
+0457                        
+0458    708    FF FF FF FF   dup 6, null
+0459                        
+0460                        ; not a
+0461    720    EF FF F4 B0   path alu_not, a			;累加器A 取反运算，结果写回A中
+0462    724    FF FF FF FF   inc pc
+0463    728    CF FF FF FF   reset upc
+0464                        
+0465    72C    FF FF FF FF   dup 5, null
+0466                        
+0467                        ;=============================================================
+0468                        ;子程序调用指令，双字节指令，第二个字节是调用子程序标号，该标号实质为一个地址，所指存储单元中就是被调用子程序的入口地址（起始地址）
+0469                        ; call symbol
+0470                        
+0471                        ; 将子程序入口地址保存到辅助寄存器asr中
+0472    740    FF FF FF FF   inc pc					;PC+1
+0473    744    EF 7D F9 FF   path [pc], asr			;将PC指向存储单元内容写入辅助寄存器ASR中，也就是将被调用子程序的入口地址暂存到ASR中
+0474                        
+0475                        ; pc+1，得到返回地址
+0476    748    FF FF FF FF   inc pc					;PC+1，指向下一条指令，即返回地址
+0477                        
+0478                        ; sp-1，为返回地址入栈分配一个新的空间，入栈时，栈顶向低地址方向生长
+0479    74C    EF FF 72 FF   path sp, csp
+0480    750    EF FF FF FF   path sp_dec, csp		
+0481    754    EF FE F8 FF   path csp, sp			;返回地址入栈前，先将SP-1，指向新的栈顶
+0482                        
+0483                        ; 返回地址入栈
+0484    758    EF F7 F2 FF   path sp, mar
+0485    75C    ED FB F3 FF   path pc, [mar]			;将PC（返回地址）入栈
+0486                        
+0487                        ; 将调用子程序入口地址加载到PC，实现子程序调用
+0488    760    EF EF F7 FF   path asr, pc			;将ASR寄存器的值加载到PC，也就是将调用子程序的入口地址加载到PC，转移到子程序处执行
+0489    764    CF FF FF FF   reset upc
+0490                        
+0491    768    FF FF FF FF   dup 6, null
+0492                        
+0493                        ; 填充空白指令
+0494    780    FF FF FF FF   dup 16, null
+0495                        
+0496                        
+0497                        ;===============================================================
+0498                        ;中断返回指令，可参照子程序调用返回指令，出栈
+0499                        ; iret
+0500    7C0    EF F7 F2 FF   path sp, mar
+0501    7C4    EF FF 72 FF   path sp, csp
+0502    7C8    E7 FF FF FF   path sp_inc, csp
+0503    7CC    EF FE F8 FF   path csp, sp
+0504    7D0    EF EB F9 FF   path [mar], pc
+0505    7D4    CF FF FF FF   reset upc
+0506                        
+0507    7D8    FF FF FF FF   dup 2, null
+0508                        
+0509                        
+0510                        

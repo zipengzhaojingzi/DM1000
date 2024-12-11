@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg height="1335" version="1.1" width="1952" xmlns="http://www.w3.org/2000/svg">
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="910" x2="850" y1="790" y2="790"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="910" x2="850" y1="850" y2="850"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1040" x2="1100" y1="820" y2="820"/>
+
+  <path d="M988 768 A 47 47 0 1 1 988 861" fill="none" stroke="#000000" stroke-linecap="round" stroke-width="5"/>
+
+  <polyline fill="none" points="989 862, 910 862, 910 768, 989 768" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="951" y="762">U3</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="934" y="908">AND</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="910" x2="850" y1="980" y2="980"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="910" x2="850" y1="1040" y2="1040"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1040" x2="1100" y1="1010" y2="1010"/>
+
+  <path d="M988 958 A 47 47 0 1 1 988 1051" fill="none" stroke="#000000" stroke-linecap="round" stroke-width="5"/>
+
+  <polyline fill="none" points="989 1052, 910 1052, 910 958, 989 958" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="951" y="952">U4</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="934" y="1098">AND</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="910" x2="850" y1="1170" y2="1170"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="910" x2="850" y1="1230" y2="1230"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1040" x2="1100" y1="1200" y2="1200"/>
+
+  <path d="M988 1148 A 47 47 0 1 1 988 1241" fill="none" stroke="#000000" stroke-linecap="round" stroke-width="5"/>
+
+  <polyline fill="none" points="989 1242, 910 1242, 910 1148, 989 1148" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="951" y="1142">U5</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="934" y="1288">AND</text>
+
+  <polyline fill="none" points="850 790, 790 790" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="850 980, 790 980, 790 570" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="850 620, 540 620, 420 620, 170 620" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="850 850, 740 850" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="850 1170, 740 1170, 740 620" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1290 590, 1100 590" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1290 640, 1290 690, 540 690, 540 810, 420 810, 170 810" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="850 1040, 690 1040" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="850 1230, 690 1230, 690 690" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1290 1010, 1100 1010" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1290 970, 1140 970, 1140 820, 1100 820" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1290 1050, 1140 1050, 1140 1200, 1100 1200" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="微软雅黑" font-size="105" font-weight="700" text-anchor="start" x="480" y="140">阵列乘法器运算单元</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="910" x2="850" y1="570" y2="570"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="910" x2="850" y1="620" y2="620"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1050" x2="1100" y1="590" y2="590"/>
+
+  <polyline fill="none" points="919 548, 969 548" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="916 639, 967 639" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M970 548 C 1037 548, 1046 592, 1046 592" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M968 639 C 1036 639, 1046 593, 1046 593" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M917 548 C 930 594, 916 639, 916 639" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M908 549" fill="none" stroke="#ff0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M907 549 C 916 596, 907 639, 907 639" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="953" y="540">U1</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="935" y="683">XOR</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1350" x2="1290" y1="590" y2="590"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1350" x2="1290" y1="640" y2="640"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1490" x2="1540" y1="610" y2="610"/>
+
+  <polyline fill="none" points="1359 568, 1409 568" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1356 659, 1407 659" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M1410 568 C 1477 568, 1486 612, 1486 612" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M1408 659 C 1476 659, 1486 613, 1486 613" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M1357 568 C 1370 614, 1356 659, 1356 659" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M1348 569" fill="none" stroke="#ff0000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M1347 569 C 1356 616, 1347 659, 1347 659" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1393" y="560">U2</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1375" y="703">XOR</text>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1350" x2="1290" y1="970" y2="970"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1360" x2="1290" y1="1010" y2="1010"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1350" x2="1290" y1="1050" y2="1050"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="1490" x2="1540" y1="1010" y2="1010"/>
+
+  <path d="M1347 960 C 1377 1010, 1347 1060, 1347 1060" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1348 960, 1418 960" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1348 1060, 1418 1060" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M1419 960 C 1465 960, 1490 1010, 1489 1010" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <path d="M1418 1060 C 1467 1060, 1490 1010, 1490 1010" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1403" y="945">U6</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="1375" y="1108">OR3</text>
+
+  <polygon fill="#ffff80" points="20 170, 20 145, 145 145, 170 170, 145 195, 20 195, 20 170" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="170">X</text>
+
+  <polygon fill="#ffff80" points="20 320, 20 295, 145 295, 170 320, 145 345, 20 345, 20 320" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="320">Y</text>
+
+  <polygon fill="#ffff80" points="20 810, 20 785, 145 785, 170 810, 145 835, 20 835, 20 810" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="810">Cin</text>
+
+  <polygon fill="#ffff80" points="1780 610, 1780 585, 1905 585, 1930 610, 1905 635, 1780 635, 1780 610" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1780" y="610">Pout</text>
+
+  <polygon fill="#ffff80" points="1780 1010, 1780 985, 1905 985, 1930 1010, 1905 1035, 1780 1035, 1780 1010" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="1780" y="1010">Cout</text>
+
+  <polyline fill="none" points="1540 610, 1780 610" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="1540 1010, 1780 1010" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="310" x2="250" y1="210" y2="210"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="310" x2="250" y1="270" y2="270"/>
+
+  <line stroke="#000000" stroke-linecap="round" stroke-width="5" x1="440" x2="500" y1="240" y2="240"/>
+
+  <path d="M388 188 A 47 47 0 1 1 388 281" fill="none" stroke="#000000" stroke-linecap="round" stroke-width="5"/>
+
+  <polyline fill="none" points="389 282, 310 282, 310 188, 389 188" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="351" y="182">U7</text>
+
+  <text alignment-baseline="after-edge" fill="#000000" font-family="Arial" font-size="25" font-weight="700" text-anchor="start" x="334" y="328">AND</text>
+
+  <polygon fill="#ffff80" points="20 620, 20 595, 145 595, 170 620, 145 645, 20 645, 20 620" stroke="#800000" stroke-width="1"/>
+
+  <text alignment-baseline="central" fill="#800000" font-family="Times New Roman" font-size="25" font-weight="400" text-anchor="start" x="20" y="620">Pin</text>
+
+  <polyline fill="none" points="170 170, 250 170, 250 210" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="170 320, 250 320, 250 270" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <polyline fill="none" points="500 240, 540 240, 540 570, 850 570" stroke="#0000ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+
+  <rect fill="none" height="850" stroke="#808080" stroke-width="5" width="900" x="640" y="460"/>
+
+  <text alignment-baseline="after-edge" fill="#808080" font-family="微软雅黑" font-size="55" font-weight="400" text-anchor="start" x="940" y="440">一位全加器</text>
+
+  <circle cx="690" cy="690" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="690" cy="1040" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="740" cy="620" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="740" cy="850" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="790" cy="790" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+  <circle cx="790" cy="570" fill="#0000ff" r="8" stroke="#0000ff" stroke-width="5"/>
+
+</svg>
